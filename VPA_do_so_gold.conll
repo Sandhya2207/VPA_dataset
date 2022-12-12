@@ -1,0 +1,10950 @@
+#begin document P0_GDP
+   [CLS]     -
+       k    (0
+   ##ish     -
+    ##an    0)
+     was     -
+thinking     -
+   about     -
+  riding    (1
+     his   (0)
+   brand     -
+     new     -
+     car    1)
+       .     -
+      he   (0)
+    will     -
+probably     -
+    have     -
+       a     -
+    good     -
+    time     -
+   doing    (1
+      so    1)
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P1_GDP
+ [CLS]    -
+   bow   (0
+ ##mer   0)
+turned   (1
+    on    -
+   the    -
+     f    -
+  ##au    -
+  ##ce    -
+   ##t   1)
+     .    -
+    by    -
+ doing   (1
+    so   1)
+     ,    -
+   the   (0
+   bow    -
+ ##mer   0)
+ruined    -
+   the    -
+  plan    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P2_GDP
+    [CLS]    -
+        s    -
+     ##te    -
+     ##ve    -
+requested    -
+      the   (0
+   lawyer   0)
+       to    -
+     take   (1
+       up    -
+      the    -
+     case   1)
+        ,    -
+      but    -
+      the   (0
+   lawyer   0)
+   denied    -
+    doing   (1
+       so   1)
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P3_GDP
+         [CLS]     -
+           and    (0
+         ##rew    0)
+         takes    (1
+responsibility    1)
+         often     -
+             .     -
+            he   (0)
+          does    (1
+            so    1)
+          with     -
+     assurance     -
+             .     -
+         [SEP]     -
+#end document
+
+#begin document P4_GDP
+    [CLS]     -
+        r    (0
+     ##au     -
+     ##ni     -
+      ##t    0)
+tightened    (1
+      the     -
+    screw    1)
+        .     -
+       by     -
+    doing    (1
+       so    1)
+        ,     -
+       he   (0)
+    would     -
+      ins     -
+    ##ure     -
+      the     -
+   safety     -
+       of     -
+      the     -
+     door     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P5_GDP
+    [CLS]     -
+     trim    (0
+    ##urt     -
+     ##hi    0)
+ resigned    (1
+     from     -
+      the     -
+president     -
+        '     -
+        s     -
+     post    1)
+        .     -
+       by     -
+    doing    (1
+       so    1)
+        ,     -
+       he   (0)
+   became     -
+        a     -
+      one     -
+        -     -
+     term     -
+president     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P6_GDP
+     [CLS]     -
+         s    (0
+      ##hu     -
+     ##bha     -
+       ##m    0)
+      sold    (1
+newspapers     -
+       and     -
+      paid     -
+       for     -
+       the     -
+         t     -
+   ##ution    1)
+         .     -
+        by     -
+     doing    (1
+        so    1)
+         ,     -
+        he   (0)
+     built     -
+       his   (0)
+    career     -
+        on     -
+         g     -
+     ##rit     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P7_GDP
+    [CLS]    -
+     lift   (0
+      the    -
+  machine    -
+   upside    -
+     down    -
+     with    -
+      two    -
+    hands   0)
+        .    -
+    doing   (0
+       so   0)
+  ensures    -
+stability    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P8_GDP
+  [CLS]    -
+control   (0
+    the    -
+      s    -
+   ##te    -
+##aring    -
+   with    -
+   both    -
+  hands   0)
+      .    -
+  doing   (0
+     so   0)
+     is    -
+    the    -
+  right    -
+    way    -
+     to    -
+  steer    -
+    the    -
+    car    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P9_GDP
+   [CLS]    -
+    ring   (0
+     the    -
+   phone    -
+   twice   0)
+       .    -
+   doing   (0
+      so   0)
+     may    -
+identify    -
+     the    -
+    real    -
+    user    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P10_GDP
+   [CLS]     -
+     and    (0
+ ##erson    0)
+ recalls     -
+chatting   (1)
+    with     -
+      em     -
+   ##ely     -
+       .     -
+     his   (0)
+ reasons     -
+     for     -
+   doing    (1
+      so    1)
+     are     -
+   quite     -
+ obvious     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P11_GDP
+      [CLS]     -
+          j    (0
+       ##ay     -
+      ##esh    0)
+   switched    (1
+    parties    1)
+          .     -
+         by     -
+      doing    (1
+         so    1)
+          ,     -
+         it     -
+         is     -
+     likely     -
+         to     -
+         be     -
+politically     -
+    counter     -
+          -     -
+ productive     -
+        for     -
+        him   (0)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P12_GDP
+ [CLS]    -
+   use   (0
+    of    -
+petrol    -
+    in    -
+  your    -
+diesel    -
+   car   0)
+    is    -
+ wrong    -
+     .    -
+ doing   (0
+    so   0)
+   can    -
+ cause    -
+damage    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P13_GDP
+  [CLS]    -
+     he    -
+  tried    -
+  being   (0
+careful    -
+    and    -
+    not    -
+   over    -
+   ##ex    -
+ ##pose    -
+himself   0)
+      .    -
+  doing   (0
+     so   0)
+  would    -
+   help    -
+    him    -
+  sneak    -
+   into    -
+    the    -
+   area    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P14_GDP
+      [CLS]     -
+          i   (0)
+       take    (1
+        off     -
+         my   (0)
+      shirt    1)
+          .     -
+          i   (0)
+       feel     -
+comfortable     -
+      doing    (1
+         so    1)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P15_GDP
+    [CLS]     -
+   united    (0
+   nation    0)
+ declared    (1
+        a     -
+   global     -
+      pan     -
+    ##dam     -
+     ##ic    1)
+        .     -
+       by     -
+    doing    (1
+       so    1)
+        ,     -
+       it   (0)
+    tried     -
+       to     -
+   create     -
+     more     -
+awareness     -
+       of     -
+     this     -
+  disease     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P16_GDP
+        [CLS]     -
+            a    (0
+         ##et     -
+         ##na    0)
+           is     -
+     visiting    (2
+         many     -
+  restaurants    2)
+           in     -
+           am    (1
+       ##eric     -
+          ##a    1)
+            .     -
+           by     -
+        doing    (2
+           so    2)
+            ,     -
+          she   (0)
+           is     -
+acknowledging     -
+     changing     -
+       tastes     -
+           in     -
+           am    (1
+       ##eric     -
+          ##a    1)
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P17_GDP
+        [CLS]    -
+         chin   (0
+          ##a   0)
+      finally    -
+      allowed   (1
+   scientists    -
+           to    -
+        carry    -
+          out    -
+investigation    -
+           in    -
+            w    -
+         ##uh    -
+         ##an   1)
+            .    -
+        doing   (1
+           so   1)
+        would    -
+         seem    -
+           to    -
+           be    -
+           re    -
+         ##bu    -
+      ##ffing    -
+         chin   (0
+          ##a    -
+            '    -
+            s   0)
+      gesture    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P18_GDP
+    [CLS]     -
+       he   (0)
+certainly     -
+   jumped    (1
+       in     -
+      the     -
+      beg     -
+   ##ning     -
+       of     -
+      the     -
+     race    1)
+        .     -
+       by     -
+    doing    (1
+       so    1)
+        ,     -
+       he   (0)
+  cheated     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P19_GDP
+    [CLS]    -
+professor    -
+       is    -
+ thinking    -
+       of    -
+     post   (0
+     ##po    -
+   ##ning    -
+      the    -
+     exam   0)
+    again    -
+        .    -
+    doing   (0
+       so   0)
+    would    -
+  require    -
+        a    -
+     more    -
+ probable    -
+    cause    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P20_GDP
+       [CLS]       -
+      people      (0
+          of       -
+         the       -
+           p       -
+       ##hil       -
+        ##ip       -
+      ##pine       -
+         ##s      0)
+     studied      (2
+         and       -
+  celebrated       -
+         the      (1
+    business       -
+  agreements       -
+        from       -
+          in       -
+       ##dia   1)|2)
+           .       -
+          by       -
+       doing      (2
+          so      2)
+           ,       -
+        they     (0)
+       bound       -
+          it     (1)
+economically       -
+         and       -
+  culturally       -
+           .       -
+       [SEP]       -
+#end document
+
+#begin document P21_GDP
+     [CLS]     -
+     girls    (0
+       and     -
+    ladies    0)
+      were     -
+practicing    (1
+        ka     -
+     ##tha     -
+       ##k    1)
+         .     -
+      they   (0)
+      were     -
+     doing    (1
+        so    1)
+    before     -
+       ben     -
+    ##nett     -
+      came     -
+     along     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P22_GDP
+     [CLS]     -
+        ch    (0
+     ##ret     -
+     ##ien    0)
+      took    (1
+       the     -
+ rebellion     -
+        to     -
+       the     -
+      west     -
+    valley    1)
+         ,     -
+     which     -
+        is     -
+         a     -
+prohibited     -
+      area     -
+         .     -
+        by     -
+     doing    (1
+        so    1)
+         ,     -
+        he   (0)
+    risked     -
+ rebellion     -
+      life     -
+        in     -
+       the     -
+      west     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P23_GDP
+ [CLS]    -
+   you    -
+should    -
+ sleep   (0
+ early   0)
+     .    -
+    by    -
+ doing   (0
+    so   0)
+   you    -
+   can    -
+  wake    -
+    up    -
+ early    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P24_GDP
+  [CLS]    -
+   keep   (0
+    the    -
+   wash    -
+   ##er    -
+  clean   0)
+      .    -
+  doing   (0
+     so   0)
+ensures    -
+   good    -
+ health    -
+     of    -
+    the    -
+   wash    -
+   ##er    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P25_GDP
+    [CLS]    -
+      the    -
+ minister    -
+  updated   (0
+      the    -
+education    -
+   policy   0)
+        .    -
+    doing   (0
+       so   0)
+    would    -
+ increase    -
+    local    -
+  control    -
+     over    -
+   public    -
+education    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P26_GDP
+    [CLS]    -
+ electric   (0
+     cars   0)
+     have   (1
+        a    -
+    range    -
+       of    -
+      350    -
+    miles    -
+      per    -
+   charge   1)
+        .    -
+   people    -
+      are    -
+surprised    -
+     that    -
+    these   (0
+     cars   0)
+      are    -
+    doing   (1
+       so   1)
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P27_GDP
+     [CLS]     -
+       the    (0
+lieutenant    0)
+  strongly     -
+ disagreed    (1
+      with     -
+       the     -
+      plan    1)
+         .     -
+     doing    (1
+        so    1)
+         ,     -
+        he   (0)
+    argued     -
+         ,     -
+     would     -
+       leg     -
+     ##iti     -
+    ##mize     -
+       the     -
+        na     -
+      ##zi     -
+    regime     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P28_GDP
+    [CLS]     -
+        s    (0
+    ##haw     -
+      ##n    0)
+   turned    (2
+       on     -
+      the     -
+   killer     -
+  machine    2)
+       to     -
+     kill     -
+        m    (1
+     ##os     -
+  ##quito     -
+     ##es    1)
+        .     -
+    doing    (2
+       so    2)
+        ,     -
+       he   (0)
+     says     -
+        ,     -
+   narrow     -
+      ##s     -
+    their   (1)
+prospects     -
+      for     -
+ survival     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P29_GDP
+     [CLS]    -
+        it    -
+         '    -
+         s    -
+ difficult    -
+        to    -
+      ride   (0
+         a    -
+      bike    -
+      with    -
+         a    -
+    remote    -
+   control   0)
+         .    -
+     doing   (0
+        so   0)
+     seems    -
+impossible    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P30_GDP
+    [CLS]     -
+        f    (0
+    ##obe     -
+      ##s    0)
+   listed    (1
+        k     -
+     ##em     -
+      ##p     -
+       in     -
+      the     -
+      top     -
+      100     -
+influence     -
+     ##rs     -
+       of     -
+     2020    1)
+        .     -
+       in     -
+    doing    (1
+       so    1)
+        ,     -
+       it   (0)
+ promoted     -
+      the     -
+political     -
+prospects     -
+       of     -
+        k     -
+     ##em     -
+      ##p     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P31_GDP
+     [CLS]    -
+        si    -
+       ##a    -
+       and    -
+       man    -
+      ##dy    -
+ committed   (0
+         a    -
+      same    -
+    gender    -
+  marriage   0)
+         .    -
+     doing   (0
+        so   0)
+         a    -
+generation    -
+       ago    -
+     would    -
+      have    -
+      been    -
+    viewed    -
+        as    -
+   treason    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P32_GDP
+     [CLS]    -
+  national   (0
+      bank    -
+        is    -
+     being    -
+         p    -
+      ##ri    -
+     ##vat    -
+     ##ise   0)
+         .    -
+     doing   (0
+        so   0)
+       may    -
+        be    -
+especially    -
+  damaging    -
+       for    -
+    people    -
+      with    -
+     large    -
+  accounts    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P33_GDP
+     [CLS]     -
+        to    (0
+       ##m    0)
+     tried    (1
+        to     -
+        do     -
+         a     -
+ publicity     -
+     stunt     -
+     while     -
+delivering     -
+         a     -
+    speech    1)
+         .     -
+       but     -
+        in     -
+     doing    (1
+        so    1)
+         ,     -
+        he   (0)
+     ended     -
+      with     -
+         a     -
+   curious     -
+ statement     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P34_GDP
+    [CLS]    -
+     tech    -
+    giant    -
+companies    -
+      are    -
+ planning   (0
+       to    -
+ continue    -
+      the    -
+ schedule    -
+      for    -
+   normal    -
+     days    -
+       as    -
+     well   0)
+        .    -
+    doing   (0
+       so   0)
+    would    -
+     mean    -
+ altering    -
+schedules    -
+     that    -
+      are    -
+      set    -
+  through    -
+     2001    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P35_GDP
+   [CLS]     -
+       a    (0
+     ##k     -
+   ##bar    0)
+  wanted     -
+      to     -
+  attack    (1
+       j     -
+    ##od     -
+    ##hp     -
+    ##ur    1)
+       .     -
+     his   (0)
+strategy     -
+     for     -
+   doing    (1
+      so    1)
+     was     -
+outlined     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P36_GDP
+   [CLS]     -
+    jack    (0
+     and     -
+       j     -
+    ##oh     -
+   ##ana     -
+     ##s    0)
+    have     -
+    been     -
+fighting    (1
+     all     -
+     day    1)
+       .     -
+      in     -
+   doing    (1
+      so    1)
+       ,     -
+    both   (0)
+    have     -
+provided     -
+opposing     -
+ offense     -
+     ##s     -
+    with     -
+headache     -
+     ##s     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P37_GDP
+  [CLS]     -
+ police   (0)
+started     -
+     to     -
+   raid    (1
+streets    1)
+     in     -
+    the     -
+morning     -
+      .     -
+    but     -
+  since     -
+   they   (0)
+  began     -
+  doing    (1
+     so    1)
+      ,     -
+   none     -
+   have     -
+   been     -
+ caught     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P38_GDP
+    [CLS]     -
+companies   (0)
+      are     -
+ thinking     -
+       of     -
+       up    (1
+ ##dating     -
+    their   (0)
+     work     -
+ policies    1)
+        .     -
+       ch     -
+    ##iar     -
+   ##elli     -
+     said     -
+     some     -
+       of     -
+     them   (0)
+      had     -
+  already     -
+     come     -
+    close     -
+       to     -
+    doing    (1
+       so    1)
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P39_GDP
+  [CLS]     -
+      v    (0
+  ##ish     -
+   ##al    0)
+   didn    (1
+      '     -
+      t     -
+   kick     -
+    the     -
+   ball     -
+     on     -
+    the     -
+  wrong     -
+  court    1)
+      .     -
+    his   (0)
+failure     -
+     to     -
+     do    (1
+     so    1)
+    led     -
+    the     -
+   team     -
+   down     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P40_GDP
+  [CLS]    -
+  never   (0
+    put    -
+   your    -
+  money    -
+     in    -
+      a    -
+sinking    -
+company   0)
+      .    -
+     in    -
+  plain    -
+   ##er    -
+  terms    -
+      ,    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+  leads    -
+     to    -
+   loss    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P41_GDP
+     [CLS]    -
+     never   (0
+    engage    -
+        in    -
+       any    -
+  activity    -
+   without    -
+      your    -
+  superior    -
+         '    -
+         s    -
+permission   0)
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+       can    -
+    result    -
+        in    -
+     fines    -
+        or    -
+suspension    -
+       ##s    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P42_GDP
+  [CLS]    -
+     do    -
+    not   (0
+   over    -
+ ##take    -
+     ve    -
+ ##iche    -
+   ##ls    -
+     on    -
+ street    -
+  roads   0)
+      .    -
+     if    -
+ caught    -
+      ,    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+  would    -
+     be    -
+      a    -
+ reason    -
+     to    -
+     be    -
+ denied    -
+      a    -
+license    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P43_GDP
+    [CLS]    -
+       do    -
+      not   (0
+     leak    -
+      the    -
+ military    -
+  footage    -
+       in    -
+   public   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+    would    -
+certainly    -
+       es    -
+    ##cal    -
+    ##ate    -
+  tension    -
+       on    -
+      the    -
+peninsula    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P44_GDP
+    [CLS]    -
+       do    -
+      not   (0
+  attempt    -
+       to    -
+     land    -
+ aircraft    -
+    below    -
+      470    -
+       km    -
+        /    -
+        h   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+  damaged    -
+     both    -
+      the    -
+propeller    -
+      and    -
+      the    -
+   runway    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P45_GDP
+    [CLS]    -
+       do    -
+      not   (0
+  attempt    -
+       to    -
+      run    -
+     this    -
+     file    -
+       on    -
+        a    -
+   laptop   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+     will    -
+   result    -
+       in    -
+reference    -
+   memory    -
+    error    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P46_GDP
+       [CLS]    -
+          do    -
+         not   (0
+        stab    -
+        your    -
+   neighbour    -
+          at    -
+         any    -
+        cost   0)
+           .    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+          is    -
+      punish    -
+      ##able    -
+          by    -
+imprisonment    -
+         and    -
+ substantial    -
+       fines    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P47_GDP
+        [CLS]    -
+           do    -
+          not   (0
+         jump    -
+         your    -
+          car    -
+          off    -
+          the    -
+        cliff   0)
+            .    -
+      failure    -
+           to    -
+           do   (0
+           so   0)
+      results    -
+           in    -
+          the    -
+       player    -
+        being    -
+automatically    -
+       killed    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P48_GDP
+      [CLS]    -
+         do    -
+        not   (0
+       free    -
+        the    -
+    animals    -
+         on    -
+        the    -
+       road   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+        may    -
+     result    -
+         in    -
+hostilities    -
+    between    -
+     island    -
+inhabitants    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P49_GDP
+      [CLS]     -
+politicians   (0)
+       didn    (1
+          '     -
+          t     -
+        say     -
+  necessary     -
+     things     -
+         at     -
+        the     -
+     summit    1)
+          .     -
+      their   (0)
+    failure     -
+         to     -
+         do    (1
+         so    1)
+        has     -
+      stung     -
+        the     -
+   national     -
+ conscience     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P50_GDP
+       [CLS]    -
+     resolve   (0
+         the    -
+        case    -
+          as    -
+     quickly    -
+          as    -
+    possible   0)
+           .    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+       could    -
+        have    -
+     further    -
+    negative    -
+      rating    -
+implications    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P51_GDP
+  [CLS]    -
+   wear   (0
+      a    -
+ helmet    -
+  while    -
+ riding    -
+   your    -
+   bike   0)
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+   will    -
+ result    -
+     in    -
+      a    -
+     he    -
+  ##fty    -
+   fine    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P52_GDP
+         [CLS]    -
+      maintain   (0
+           law    -
+           and    -
+         order    -
+        during    -
+           the    -
+       protest   0)
+             .    -
+       failure    -
+            to    -
+            do   (0
+            so   0)
+         could    -
+       disrupt    -
+         state    -
+           and    -
+         local    -
+transportation    -
+      projects    -
+    nationwide    -
+             .    -
+         [SEP]    -
+#end document
+
+#begin document P53_GDP
+  [CLS]    -
+  throw   (0
+garbage    -
+     in    -
+    the    -
+   dust    -
+  ##bin    -
+   only   0)
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+  could    -
+     in    -
+   ##cu    -
+    ##r    -
+      a    -
+      $    -
+    100    -
+   fine    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P54_GDP
+     [CLS]    -
+government    -
+    should    -
+    invest   (0
+        in    -
+       the    -
+automobile    -
+    sector   0)
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+      will    -
+    ensure    -
+ prolonged    -
+  economic    -
+       and    -
+    social    -
+   turmoil    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P55_GDP
+      [CLS]    -
+      never   (0
+        put    -
+      metal    -
+         in    -
+       your    -
+       oven   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+      risks    -
+          a    -
+       life    -
+          -    -
+threatening    -
+     attack    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P56_GDP
+    [CLS]    -
+     dump   (0
+      the    -
+  battery    -
+ properly    -
+       in    -
+      the    -
+   ground   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+       in    -
+     ##cu    -
+     ##rs    -
+ criminal    -
+penalties    -
+       or    -
+    fines    -
+    under    -
+        s    -
+     ##wi    -
+     ##ss    -
+      law    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P57_GDP
+      [CLS]    -
+         do    -
+        not   (0
+      argue    -
+      about    -
+     racism   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+        may    -
+     result    -
+         in    -
+         un    -
+      ##con    -
+      ##tro    -
+      ##lla    -
+      ##ble    -
+   negative    -
+campaigning    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P58_GDP
+    [CLS]    -
+      you    -
+   should    -
+      not   (0
+    spill    -
+      any    -
+     kind    -
+       of    -
+   liquid    -
+       on    -
+        a    -
+  machine    -
+    while    -
+   repair    -
+    ##ing   0)
+        .    -
+  service    -
+providers    -
+    would    -
+      not    -
+       be    -
+   liable    -
+      for    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P59_GDP
+      [CLS]     -
+         do     -
+        not    (1
+        cut     -
+        the    (0
+    ventral     -
+       tube    0)
+   attached    1)
+         to     -
+        the     -
+       body     -
+          .     -
+    failure     -
+         to     -
+         do    (1
+         so    1)
+    results     -
+         in     -
+        its   (0)
+circulation     -
+      being     -
+ restricted     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P60_GDP
+   [CLS]    -
+  submit   (0
+    your    -
+evidence    -
+      to    -
+  police    -
+      in    -
+    time   0)
+       .    -
+ failure    -
+      to    -
+      do   (0
+      so   0)
+   could    -
+ attract    -
+contempt    -
+      of    -
+   court    -
+  action    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P61_GDP
+      [CLS]     -
+       chin    (0
+        ##a    0)
+       must     -
+    retreat    (1
+        its   (0)
+    warship     -
+       from     -
+        the     -
+      coast     -
+         of     -
+         th     -
+      ##ail     -
+      ##and    1)
+          .     -
+    failure     -
+         to     -
+         do    (1
+         so    1)
+      could     -
+      worse     -
+        ##n     -
+        the     -
+instability     -
+      fears     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P62_GDP
+        [CLS]    -
+           do    -
+          not   (0
+          try    -
+           to    -
+       divide    -
+          the    -
+        state   0)
+            .    -
+      failure    -
+           to    -
+           do   (0
+           so   0)
+        could    -
+       affect    -
+            a    -
+        major    -
+psychological    -
+          and    -
+     economic    -
+       factor    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P63_GDP
+  [CLS]    -
+  never   (0
+    put    -
+plastic    -
+     in    -
+   your    -
+  micro    -
+   oven   0)
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+  could    -
+   well    -
+  prove    -
+     to    -
+     be    -
+  fatal    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P64_GDP
+    [CLS]     -
+    party   (0)
+   should     -
+     hold    (1
+       up     -
+    their   (0)
+ministers    1)
+        .     -
+  failure     -
+       to     -
+       do    (1
+     that    1)
+   within     -
+      six     -
+    weeks     -
+    would     -
+  trigger     -
+        a     -
+      new     -
+ election     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P65_GDP
+      [CLS]    -
+        run   (0
+       this    -
+    program    -
+         in    -
+          a    -
+        new    -
+    virtual    -
+environment   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+     raises    -
+          a    -
+        com    -
+     ##pile    -
+          -    -
+       time    -
+      error    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P66_GDP
+    [CLS]    -
+      you    -
+   should    -
+        c   (0
+    ##ite    -
+      the    -
+  authors    -
+       in    -
+     your    -
+    paper   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+       is    -
+   likely    -
+       to    -
+   result    -
+       in    -
+        a    -
+copyright    -
+violation    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P67_GDP
+    [CLS]    -
+   people    -
+   should    -
+      not    -
+      van   (0
+    ##dal    -
+    ##ise    -
+religious    -
+monuments   0)
+        .    -
+    doing   (0
+       so   0)
+      can    -
+    cause    -
+      the    -
+    birth    -
+       of    -
+        a    -
+   social    -
+    issue    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P68_GDP
+    [CLS]    -
+    never   (0
+      put    -
+ children    -
+       in    -
+      the    -
+   fridge   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+      can    -
+    cause    -
+permanent    -
+     para    -
+  ##lysis    -
+       or    -
+    death    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P69_GDP
+    [CLS]    -
+    never   (0
+      try    -
+       to    -
+ generate    -
+        a    -
+     copy    -
+       of    -
+     this    -
+  product   0)
+        .    -
+    their    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+       is    -
+        a    -
+violation    -
+       of    -
+      our    -
+copyright    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P70_GDP
+      [CLS]    -
+  physician    -
+     should    -
+    operate   (0
+        the    -
+    machine    -
+      under    -
+        the    -
+supervision    -
+         of    -
+          a    -
+ technician   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+        may    -
+       lead    -
+         to    -
+      legal    -
+     action    -
+    against    -
+        the    -
+  physician    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P71_GDP
+       [CLS]    -
+          do    -
+         not   (0
+     connect    -
+         the    -
+refrigerator    -
+          to    -
+         the    -
+          in    -
+      ##vert    -
+        ##er   0)
+           .    -
+     failure    -
+          to    -
+          do   (0
+        this   0)
+         may    -
+       cause    -
+         the    -
+     circuit    -
+          to    -
+       short    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P72_GDP
+     [CLS]    -
+        do    -
+       not   (0
+      root    -
+       the    -
+    device   0)
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+       may    -
+    result    -
+        in    -
+        re    -
+##vocation    -
+        of    -
+permission    -
+       ##s    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P73_GDP
+     [CLS]    -
+      book   (0
+       the    -
+    ticket    -
+      only    -
+      from    -
+       the    -
+authorized    -
+   booking    -
+   counter   0)
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+     costs    -
+      more    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P74_GDP
+  [CLS]     -
+     if     -
+    the    (0
+  court    0)
+refuses    (1
+     to     -
+consent     -
+     to     -
+    the     -
+     wa     -
+ ##iver    1)
+      ,     -
+     it   (0)
+   must     -
+provide     -
+written     -
+reasons     -
+    for     -
+  doing    (1
+     so    1)
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P75_GDP
+       [CLS]     -
+           a    (0
+       ##ron    0)
+     donated    (1
+         his   (0)
+     profits     -
+          to     -
+         the     -
+        poor    1)
+           .     -
+       doing    (1
+          so    1)
+          he   (0)
+demonstrates     -
+           a     -
+       clear     -
+  preference     -
+         for     -
+     respect     -
+   ##ability     -
+       above     -
+     passion     -
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P76_GDP
+      [CLS]     -
+          b    (0
+     ##lake    0)
+          e    (1
+      ##qua     -
+      ##ted     -
+          a     -
+        new     -
+    formula    1)
+          .     -
+         in     -
+      doing    (1
+         so    1)
+          ,     -
+         he   (0)
+    devised     -
+          a     -
+       more     -
+fundamental     -
+        way     -
+         of     -
+   reaching     -
+      space     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P77_GDP
+       [CLS]    -
+          we    -
+        need    -
+          to    -
+        find    -
+         new    -
+        ways    -
+          to    -
+        cool   (0
+        down    -
+         our    -
+           l    -
+         ##g    -
+        gram    -
+          17    -
+      laptop   0)
+           .    -
+         one    -
+          of    -
+         the    -
+         few    -
+        ways    -
+          we    -
+        have    -
+          of    -
+       doing   (0
+          so   0)
+          is    -
+     through    -
+quantitative    -
+         and    -
+           q    -
+       ##ual    -
+   ##itative    -
+    research    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P78_GDP
+     [CLS]     -
+         i   (0)
+   started     -
+ switching     -
+      from     -
+     these     -
+   endless     -
+derivative     -
+    novels     -
+        to     -
+    trying     -
+        to     -
+     write    (1
+     parts     -
+       for     -
+    actors    1)
+         ,     -
+       and     -
+         i   (0)
+         '     -
+        ve     -
+      been     -
+     doing    (1
+        so    1)
+      ever     -
+     since     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P79_GDP
+      [CLS]    -
+         it    -
+         is    -
+    illegal    -
+         to    -
+      under   (0
+       ##tr    -
+      ##ump   0)
+     unless    -
+         by    -
+      doing   (0
+         so   0)
+        one    -
+    creates    -
+          a    -
+          k    -
+          -    -
+          q    -
+         or    -
+          k    -
+          -    -
+          q    -
+          -    -
+          j    -
+combination    -
+         in    -
+        the    -
+      trick    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P80_GDP
+       [CLS]    -
+      always    -
+          be   (0
+      polite    -
+          to    -
+         our    -
+      guests   0)
+           .    -
+          as    -
+    managers    -
+          or    -
+       staff    -
+   employees    -
+           ,    -
+         our    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+    reflects    -
+           a    -
+        poor    -
+professional    -
+          et    -
+       ##hic    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P81_GDP
+   [CLS]    -
+      am    -
+  ##eric    -
+   ##ans    -
+    were    -
+supposed    -
+      to    -
+ destroy   (0
+     all    -
+     the    -
+ bridges   0)
+       .    -
+ failure    -
+      to    -
+      do   (0
+      so   0)
+     was    -
+      to    -
+      be    -
+    used    -
+      by    -
+     the    -
+       g    -
+ ##erman    -
+    army    -
+      to    -
+  invade    -
+      it    -
+   ##aly    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P82_GDP
+  [CLS]    -
+     be    -
+   sure    -
+     to    -
+   grip   (0
+    the   (1
+  fruit   1)
+ firmly    -
+ behind    -
+    the    -
+   eyes    -
+  where    -
+    the    -
+   neck    -
+  meets    -
+    the    -
+   seed    -
+chamber   0)
+      .    -
+failure    -
+     to    -
+     do   (0
+   this   0)
+    may    -
+ result    -
+     in    -
+    the   (1
+  fruit   1)
+ biting    -
+    you    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P83_GDP
+     [CLS]    -
+        it    -
+        is    -
+   unclear    -
+   exactly    -
+       how    -
+        to    -
+        go    -
+     about    -
+   impress   (0
+     ##ing    -
+       the    -
+   sisters   0)
+         ,    -
+       but    -
+         a    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+        is    -
+         a    -
+frequently    -
+     cited    -
+      kiss    -
+        of    -
+     death    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P84_GDP
+       [CLS]     -
+           k    (0
+      ##rist     -
+       ##ina    0)
+         was     -
+       asked     -
+          to     -
+        turn    (1
+         off     -
+         the     -
+       stove     -
+       after     -
+           5     -
+     minutes    1)
+           .     -
+         her   (0)
+     failure     -
+          to     -
+      follow    (1
+        this    1)
+         led     -
+          to     -
+catastrophic     -
+      damage     -
+           ,     -
+         but     -
+         her   (0)
+      excuse     -
+        also     -
+     sounded     -
+          do     -
+        ##oz     -
+         ##y     -
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P85_GDP
+         [CLS]     -
+           the     -
+            co     -
+             -     -
+         pilot     -
+           was     -
+      supposed     -
+            to     -
+          keep    (0
+           the     -
+         black     -
+           box     -
+        active    0)
+             .     -
+       failure     -
+            to     -
+        follow    (0
+          this    0)
+             ,     -
+           the    (1
+            sa     -
+         ##eng     -
+          ##er    1)
+       insists     -
+             ,     -
+           has     -
+          hind     -
+        ##ered     -
+           the     -
+          sort     -
+            of     -
+investigations     -
+          that     -
+            in     -
+         ##tri     -
+         ##gue     -
+           him   (1)
+             .     -
+         [SEP]     -
+#end document
+
+#begin document P86_GDP
+       [CLS]    -
+         the    -
+   committee    -
+         has    -
+          to    -
+      summon   (0
+   witnesses   0)
+           ,    -
+         and    -
+       there    -
+          is    -
+          an    -
+       added    -
+   incentive    -
+          to    -
+  compliance    -
+        with    -
+         the    -
+commissioner    -
+           '    -
+           s    -
+ suggestions    -
+        that    -
+     failure    -
+          to    -
+      follow   (0
+        this   0)
+         may    -
+      result    -
+          in    -
+    scrutiny    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P87_GDP
+   [CLS]     -
+     the    (0
+  victim    0)
+ refused     -
+      to     -
+    have    (1
+     his   (0)
+ fingers     -
+      am     -
+   ##put     -
+  ##ated    1)
+       ,     -
+although     -
+      he   (0)
+     was     -
+   given     -
+ medical     -
+  advice     -
+    that     -
+ failure     -
+      to     -
+      do    (1
+      so    1)
+   would     -
+  result     -
+      in     -
+    lock     -
+    ##ja     -
+     ##w     -
+     and     -
+     his   (0)
+   death     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P88_GDP
+     [CLS]     -
+       the    (0
+       com     -
+     ##iss     -
+    ##ione     -
+       ##r    0)
+   ordered     -
+         q     -
+      ##rf     -
+        to     -
+       not    (1
+     allow     -
+       any     -
+     other     -
+ceremonies     -
+        at     -
+       the     -
+  election     -
+     booth    1)
+         .     -
+        he   (0)
+ confirmed     -
+      that     -
+   failure     -
+        to     -
+    follow    (1
+      this    1)
+       may     -
+    amount     -
+        to     -
+         a     -
+    breach     -
+        of     -
+  election     -
+       law     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P89_GDP
+    [CLS]     -
+        f    (0
+     ##aw     -
+    ##kes    0)
+ admitted     -
+     that     -
+       he   (0)
+ intended     -
+       to     -
+     blow    (1
+       up     -
+      the     -
+    house     -
+       of     -
+    lords    1)
+        ,     -
+      and     -
+expressed     -
+   regret     -
+       at     -
+      his   (0)
+  failure     -
+       to     -
+       do    (1
+       so    1)
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P90_GDP
+       [CLS]    -
+          it    -
+          is    -
+   important    -
+          to    -
+       treat   (0
+           a    -
+     patient    -
+          on    -
+        time   0)
+           .    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+       would    -
+       leave    -
+         the    -
+      health    -
+professional    -
+          in    -
+    contempt    -
+          of    -
+          an    -
+     offence    -
+      punish    -
+      ##able    -
+          by    -
+imprisonment    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P91_GDP
+     [CLS]    -
+       the    -
+       bat    -
+     ##ery    -
+  contains    -
+   harmful    -
+    liquid    -
+       ##s    -
+         .    -
+        do    -
+       not   (0
+       let    -
+       the    -
+    liquid    -
+      fall    -
+        on    -
+      your    -
+      skin   0)
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+       may    -
+    result    -
+        in    -
+   serious    -
+     wound    -
+infections    -
+       and    -
+  possibly    -
+        se    -
+    ##psis    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P92_GDP
+     [CLS]    -
+     clean   (0
+       the    -
+ furniture    -
+      with    -
+   alcohol    -
+         -    -
+     based    -
+   cleaner   0)
+         .    -
+   failure    -
+        to    -
+    follow   (0
+      this   0)
+      will    -
+     cause    -
+        an    -
+    uneven    -
+         b    -
+     ##lot    -
+     ##chy    -
+appearance    -
+        on    -
+      your    -
+       tea    -
+       ##k    -
+ furniture    -
+     after    -
+       you    -
+     apply    -
+       the    -
+      seal    -
+     ##ant    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P93_GDP
+  [CLS]    -
+   keep   (0
+    the    -
+ height    -
+     of    -
+    the    -
+  grass    -
+ cutter    -
+     at    -
+  least    -
+      3    -
+    ##c    -
+    ##m    -
+   from    -
+    the    -
+ ground   0)
+      .    -
+failure    -
+     to    -
+ follow   (0
+   this   0)
+    now    -
+    can    -
+   lead    -
+     to    -
+   very    -
+   stem    -
+   ##my    -
+     un    -
+  ##pal    -
+  ##ata    -
+  ##ble    -
+  grass    -
+     in    -
+  later    -
+grazing    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P94_GDP
+       [CLS]       -
+     respect      (1
+         the       -
+     members       -
+           .       -
+          do       -
+         not       -
+       share       -
+  irrelevant       -
+       media       -
+        with       -
+         the      (0
+       group   0)|1)
+           .       -
+     failure       -
+          to       -
+      follow      (1
+       these      1)
+instructions       -
+        will       -
+          be       -
+       taken       -
+          to       -
+        mean       -
+         and       -
+           f       -
+      ##ello       -
+         ##w       -
+     members       -
+        will       -
+          be       -
+     removed       -
+        from       -
+         the      (0
+       group      0)
+           .       -
+       [SEP]       -
+#end document
+
+#begin document P95_GDP
+       [CLS]    -
+          do    -
+         not   (0
+      import    -
+       drugs    -
+           .    -
+      follow    -
+         the    -
+           g    -
+       ##uid    -
+     ##lines    -
+           .    -
+          do    -
+         not    -
+      import    -
+     animals   0)
+           .    -
+     failure    -
+          to    -
+      follow   (0
+       these   0)
+instructions    -
+        will    -
+      result    -
+          in    -
+         the    -
+      import    -
+       ##ers    -
+       being    -
+         der    -
+        ##eg    -
+     ##ister    -
+        ##ed    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P96_GDP
+       [CLS]     -
+         the    (0
+      system    0)
+        must     -
+         run    (1
+           a     -
+           +     -
+      titled     -
+       games     -
+           .     -
+          it   (0)
+      should     -
+        hold     -
+          an     -
+     average     -
+          of     -
+          30     -
+         ##f     -
+        ##ps     -
+         and     -
+          it   (0)
+      should     -
+          be     -
+          re     -
+        ##sp     -
+       ##ons     -
+       ##ive    1)
+           .     -
+     failure     -
+          to     -
+      follow    (1
+       these    1)
+instructions     -
+        will     -
+        mean     -
+        that     -
+         the    (0
+      system    0)
+          is     -
+  unreliable     -
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P97_GDP
+      [CLS]    -
+    company    -
+     should    -
+     submit   (0
+        the    -
+      audit    -
+         by    -
+        the    -
+   deadline   0)
+          .    -
+    failure    -
+         to    -
+     follow   (0
+       this   0)
+instruction    -
+       will    -
+       lead    -
+         to    -
+     prison    -
+     ##ment    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P98_GDP
+    [CLS]    -
+   always    -
+   ensure   (0
+      the    -
+ validity    -
+       of    -
+technical    -
+     data   0)
+        .    -
+  failure    -
+       to    -
+   follow   (0
+     this   0)
+     will    -
+   always    -
+   result    -
+       in    -
+       an    -
+      und    -
+    ##esi    -
+    ##red    -
+  outcome    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P99_GDP
+   [CLS]     -
+       r    (0
+   ##ish     -
+    ##av    0)
+     was     -
+thinking     -
+   about     -
+  riding    (1
+     his   (0)
+     new     -
+ bicycle    1)
+       .     -
+      he   (0)
+    will     -
+probably     -
+    have     -
+       a     -
+    good     -
+    time     -
+   doing    (1
+      so    1)
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P100_GDP
+ [CLS]     -
+    br    (0
+ ##ini     -
+ ##yas    0)
+turned    (1
+    on     -
+   the     -
+     f     -
+  ##au     -
+  ##ce     -
+   ##t    1)
+     .     -
+    by     -
+ doing    (1
+    so    1)
+     ,     -
+    he   (0)
+ruined     -
+   the     -
+  plan     -
+     .     -
+ [SEP]     -
+#end document
+
+#begin document P101_GDP
+ [CLS]    -
+     s    -
+  ##te    -
+ ##fen    -
+     b    -
+ ##osh    -
+ asked    -
+   the   (0
+lawyer   0)
+    to    -
+  take   (1
+    up    -
+   the    -
+  case   1)
+     ,    -
+   but    -
+   the   (0
+lawyer   0)
+   has    -
+denied    -
+ doing   (1
+    so   1)
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P102_GDP
+         [CLS]     -
+           ale    (0
+          ##li    0)
+          asks    (1
+           for     -
+responsibility    1)
+         often     -
+             .     -
+           she   (0)
+          does    (1
+            so    1)
+          with     -
+     assurance     -
+             .     -
+         [SEP]     -
+#end document
+
+#begin document P103_GDP
+ [CLS]     -
+   run    (0
+  ##it    0)
+ loose    (1
+   the     -
+ screw    1)
+     .     -
+    by     -
+ doing    (1
+    so    1)
+     ,     -
+    he   (0)
+ would     -
+affect     -
+   the     -
+safety     -
+    of     -
+   the     -
+  door     -
+     .     -
+ [SEP]     -
+#end document
+
+#begin document P104_GDP
+    [CLS]     -
+     trip    (0
+     ##ti    0)
+ rejoined    (1
+      the     -
+president     -
+        '     -
+        s     -
+     post    1)
+        .     -
+       by     -
+    doing    (1
+       so    1)
+        ,     -
+      she   (0)
+   became     -
+        a     -
+      two     -
+        -     -
+     term     -
+president     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P105_GDP
+      [CLS]     -
+          s    (0
+      ##ham     -
+      ##bha     -
+       ##vi    0)
+distributed    (1
+          p     -
+    ##ample     -
+       ##ts     -
+        and     -
+       paid     -
+        for     -
+        the     -
+          t     -
+    ##ution    1)
+          .     -
+         by     -
+      doing    (1
+         so    1)
+          ,     -
+        she   (0)
+      built     -
+        her   (0)
+     career     -
+         on     -
+          g     -
+      ##rit     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P106_GDP
+     [CLS]    -
+      drop   (0
+       the    -
+   machine    -
+    upside    -
+      down    -
+      with    -
+       two    -
+     hands   0)
+         .    -
+     doing   (0
+        so   0)
+   ensures    -
+       the    -
+disability    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P107_GDP
+  [CLS]    -
+control   (0
+    the    -
+  break    -
+   with    -
+    one    -
+    leg   0)
+      .    -
+  doing   (0
+     so   0)
+     is    -
+    the    -
+  right    -
+    way    -
+     to    -
+operate    -
+    the    -
+    car    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P108_GDP
+   [CLS]    -
+    ring   (0
+     the    -
+    door    -
+    bell    -
+   twice   0)
+       .    -
+   doing   (0
+      so   0)
+     may    -
+identify    -
+  anyone    -
+presence    -
+      in    -
+     the    -
+    home    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P109_GDP
+     [CLS]     -
+         k    (0
+    ##rist     -
+     ##ina    0)
+ displayed    (1
+      high     -
+         -     -
+resolution     -
+   content     -
+        on     -
+       her   (0)
+         t     -
+       ##v    1)
+         .     -
+       her   (0)
+   reasons     -
+       for     -
+     doing    (1
+        so    1)
+        is     -
+     quite     -
+   obvious     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P110_GDP
+   [CLS]     -
+    mark    (0
+     man     -
+   ##des    0)
+switched    (1
+     the     -
+ channel    1)
+       .     -
+      by     -
+   doing    (1
+      so    1)
+      he   (0)
+     was     -
+  likely     -
+      to     -
+      be     -
+       s     -
+    ##co     -
+  ##lded     -
+      by     -
+     his   (0)
+    wife     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P111_GDP
+ [CLS]    -
+   use   (0
+    of    -
+     k    -
+ ##ero    -
+ ##sen    -
+    in    -
+  your    -
+petrol    -
+     m    -
+##oter    -
+##boat   0)
+    is    -
+ wrong    -
+     .    -
+ doing   (0
+    so   0)
+   can    -
+ cause    -
+damage    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P112_GDP
+ [CLS]    -
+    he    -
+ tried   (0
+    to    -
+    be    -
+    at    -
+ ##ten    -
+##tive   0)
+     .    -
+ doing   (0
+    so   0)
+ would    -
+  help    -
+   him    -
+ sneak    -
+  into    -
+   the    -
+  area    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P113_GDP
+      [CLS]     -
+          i   (0)
+        put    (1
+         my   (0)
+        leg     -
+         on     -
+    massage     -
+        ##r    1)
+          .     -
+          i   (0)
+       feel     -
+comfortable     -
+      doing    (1
+         so    1)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P114_GDP
+      [CLS]     -
+   decrease    (0
+        the     -
+ brightness     -
+         of     -
+        the     -
+     screen     -
+         in     -
+          a     -
+       dark     -
+environment    0)
+          .     -
+       this   (0)
+      could     -
+    protect     -
+       your     -
+       eyes     -
+       from     -
+      being     -
+    damaged     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P115_GDP
+   [CLS]     -
+    your     -
+ display     -
+     can     -
+    show    (0
+   signs     -
+      of     -
+   light     -
+bleeding    0)
+       .     -
+      it   (0)
+  occurs     -
+    only     -
+      on     -
+     led     -
+ screens     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P116_GDP
+      [CLS]    -
+     charge   (0
+        the    -
+     laptop    -
+          '    -
+          s    -
+    battery    -
+       when    -
+        the    -
+     charge    -
+         is    -
+         at    -
+         20    -
+        per    -
+       cent   0)
+          .    -
+       this   (0
+      habit   0)
+        can    -
+   increase    -
+        the    -
+    battery    -
+       life    -
+        and    -
+performance    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P117_GDP
+    [CLS]     -
+      car    (0
+      ##l    0)
+ slightly    (1
+   jumped     -
+       at     -
+      the     -
+beginning     -
+       of     -
+      the     -
+     race    1)
+        .     -
+       by     -
+    doing    (1
+       so    1)
+        ,     -
+       he   (0)
+    added     -
+    extra     -
+ momentum     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P118_GDP
+         [CLS]     -
+           you     -
+           can     -
+         order    (0
+         parts     -
+          from     -
+             l     -
+           ##g    0)
+             .     -
+          this   (0)
+           can     -
+            be     -
+          done     -
+            by     -
+      visiting     -
+           the     -
+       website     -
+            or     -
+       talking     -
+            to     -
+             a     -
+      customer     -
+       service     -
+representative     -
+             .     -
+         [SEP]     -
+#end document
+
+#begin document P119_GDP
+      [CLS]     -
+         do     -
+        not     -
+       open    (1
+        the     -
+       door     -
+         of     -
+        the    (0
+    machine    0)
+      while     -
+         it   (0)
+         is     -
+functioning    1)
+          .     -
+    failure    (1
+         to     -
+     follow     -
+       this     -
+instruction    1)
+       will     -
+       harm     -
+        the     -
+       wash     -
+      cycle     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P120_GDP
+      [CLS]    -
+         do    -
+        not    -
+      close   (0
+        the    -
+        lid    -
+      while    -
+        the    -
+    machine    -
+         is    -
+  operating   0)
+          .    -
+    failure   (0
+         to    -
+     follow    -
+       this    -
+instruction   0)
+        can    -
+      cause    -
+     damage    -
+         to    -
+        the    -
+    product    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P121_GDP
+      [CLS]    -
+         do    -
+        not    -
+        try    -
+         to    -
+     change   (0
+        the    -
+       time    -
+        ##r    -
+         in    -
+        the    -
+     middle    -
+         of    -
+   cleaning   0)
+          .    -
+    failure   (0
+         to    -
+     follow    -
+       this    -
+instruction   0)
+       will    -
+       harm    -
+        the    -
+       wash    -
+      cycle    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P122_GDP
+  [CLS]    -
+  never    -
+    put   (0
+   your    -
+  hands    -
+ inside    -
+    the    -
+   wash    -
+  trunk   0)
+      .    -
+     do   (0
+     so   0)
+   only    -
+   when    -
+    the    -
+machine    -
+     is    -
+    off    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P123_GDP
+    [CLS]     -
+    pants     -
+      can     -
+      get    (0
+    stain     -
+      ##s    0)
+        .     -
+     this   (0)
+   occurs     -
+     when     -
+      you     -
+      add     -
+different     -
+ coloured     -
+  clothes     -
+ together     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P124_GDP
+  [CLS]       -
+     if       -
+    the   (0|(1
+   oven      0)
+ smells       -
+     pu       -
+  ##nge       -
+   ##nt      1)
+      ,       -
+   turn       -
+     it     (0)
+    off       -
+      .       -
+   this     (1)
+  could       -
+     be       -
+because       -
+     of       -
+     an       -
+    oil       -
+  spill       -
+      .       -
+  [SEP]       -
+#end document
+
+#begin document P125_GDP
+  [CLS]     -
+   open     -
+    the     -
+control     -
+  panel     -
+    and     -
+     un    (0
+  ##ins     -
+  ##tal     -
+    ##l     -
+    the     -
+program    0)
+      .     -
+   this   (0)
+    may     -
+resolve     -
+    the     -
+  issue     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P126_GDP
+  [CLS]     -
+   turn     -
+    off     -
+    the    (0
+      v     -
+   ##ac     -
+  ##cum     -
+cleaner    0)
+     as     -
+   soon     -
+     as     -
+     it   (0)
+ starts     -
+ making     -
+      a    (1
+    rat     -
+##tling     -
+  noise    1)
+      .     -
+     it   (1)
+  could     -
+     be     -
+      a     -
+  metal     -
+  piece     -
+ sucked     -
+ inside     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P127_GDP
+ [CLS]    -
+   fix   (0
+   the    -
+ screw    -
+   ##s    -
+  with    -
+     a    -
+ screw    -
+driver   0)
+     .    -
+    do   (0
+    so   0)
+    to    -
+ensure    -
+ screw    -
+   ##s    -
+   don    -
+     '    -
+     t    -
+   get    -
+   def    -
+ ##orm    -
+  ##ed    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P128_GDP
+   [CLS]     -
+      di     -
+    ##sp     -
+   ##ose     -
+     off     -
+     the    (0
+ leaking     -
+ battery    0)
+properly     -
+       .     -
+      it   (0)
+   could     -
+   cause     -
+  acidic     -
+    harm     -
+      to     -
+    skin     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P129_GDP
+    [CLS]     -
+       do     -
+      not     -
+       di    (0
+     ##sp     -
+    ##ose     -
+      off     -
+batteries     -
+       in     -
+   jungle     -
+    areas    0)
+        .     -
+     they   (0)
+    could     -
+    catch     -
+     fire     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P130_GDP
+    [CLS]     -
+     keep    (1
+      the    (0
+  product    0)
+     away     -
+     from     -
+   direct     -
+ sunlight    1)
+        .     -
+    doing    (1
+       so    1)
+       is     -
+essential     -
+      for     -
+      its   (0)
+   health     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P131_GDP
+  [CLS]    -
+    run   (0
+    the    -
+      p    -
+ ##ixel    -
+  refer    -
+  ##esh    -
+   ##er    -
+ weekly   0)
+      .    -
+  doing   (0
+     so   0)
+  could    -
+ expand    -
+    the    -
+   life    -
+   span    -
+     of    -
+    the    -
+display    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P132_GDP
+      [CLS]     -
+         if     -
+        all     -
+        the    (0
+   computer    0)
+      could     -
+         do     -
+        was     -
+       pass     -
+      along     -
+        the     -
+information     -
+         it   (0)
+   received     -
+          ,     -
+         it   (0)
+      could     -
+        not     -
+         be     -
+   credited     -
+       with     -
+recognizing     -
+   anything     -
+         at     -
+        all     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P133_GDP
+    [CLS]     -
+     this     -
+  printer     -
+     came     -
+     with     -
+        a     -
+  replace     -
+   ##able     -
+     tone     -
+      ##r     -
+cartridge     -
+     that     -
+       is     -
+      not     -
+difficult     -
+       to     -
+   change   (0)
+        ,     -
+ although     -
+       it   (0)
+    could     -
+sometimes     -
+      bit     -
+        a     -
+   little     -
+    messy     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P134_GDP
+    [CLS]     -
+       if     -
+   pollen    (0
+     from     -
+       an    (1
+     herb     -
+  ##icide     -
+        -     -
+resistant     -
+    plant    1)
+     gets     -
+  carried     -
+       by     -
+      the     -
+     wind    0)
+        ,     -
+       it   (0)
+    could     -
+     poll     -
+  ##inate     -
+        a     -
+     weed     -
+     that     -
+       is     -
+        a     -
+ relative     -
+       of     -
+      the    (1
+    plant    1)
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P135_GDP
+     [CLS]    -
+         s    -
+      ##hr    -
+      ##ee    -
+       and    -
+       mad    -
+      ##ha    -
+       ##v    -
+ committed   (0
+         a    -
+      same    -
+    gender    -
+  marriage   0)
+         .    -
+     doing   (0
+        so   0)
+         a    -
+generation    -
+       ago    -
+     would    -
+      have    -
+      been    -
+    viewed    -
+        as    -
+   treason    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P136_GDP
+     [CLS]    -
+government    -
+     banks    -
+       are    -
+     being    -
+         p   (0
+      ##ri    -
+     ##vat    -
+     ##ise   0)
+         .    -
+     doing   (0
+        so   0)
+       may    -
+        be    -
+especially    -
+  damaging    -
+       for    -
+    people    -
+      with    -
+     large    -
+  accounts    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P137_GDP
+     [CLS]     -
+         a    (0
+    ##ashi     -
+       ##f    0)
+     tried     -
+        to     -
+        do    (1
+         a     -
+ publicity     -
+     stunt     -
+     while     -
+delivering     -
+         a     -
+    speech    1)
+         .     -
+       but     -
+        in     -
+     doing    (1
+        so    1)
+         ,     -
+        he   (0)
+     ended     -
+      with     -
+         a     -
+   curious     -
+ statement     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P138_GDP
+    [CLS]    -
+     tech    -
+     para    -
+  ##mount    -
+companies    -
+      are    -
+ planning   (0
+       to    -
+ continue    -
+      the    -
+ schedule    -
+      for    -
+   normal    -
+     days    -
+       as    -
+     well   0)
+        .    -
+    doing   (0
+       so   0)
+    would    -
+     mean    -
+ altering    -
+schedules    -
+     that    -
+      are    -
+      set    -
+  through    -
+     2001    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P139_GDP
+   [CLS]     -
+     ash    (0
+   ##oka    0)
+  wanted     -
+      to     -
+  attack    (1
+       j     -
+    ##od     -
+    ##hp     -
+    ##ur    1)
+       .     -
+     his   (0)
+strategy     -
+     for     -
+   doing    (1
+      so    1)
+     was     -
+outlined     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P140_GDP
+   [CLS]     -
+       j    (0
+    ##oh     -
+     ##n     -
+     and     -
+       j     -
+    ##of     -
+    ##el    0)
+    have     -
+    been     -
+fighting    (1
+     all     -
+     day    1)
+       .     -
+      in     -
+   doing    (1
+      so    1)
+       ,     -
+    both   (0)
+    have     -
+provided     -
+opposing     -
+ offense     -
+     ##s     -
+    with     -
+headache     -
+     ##s     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P141_GDP
+  [CLS]     -
+ police   (0)
+started     -
+     to     -
+   raid   (1)
+ houses     -
+     in     -
+    the     -
+streets     -
+     in     -
+    the     -
+morning     -
+      .     -
+  since     -
+   they   (0)
+  began     -
+  doing    (1
+     so    1)
+      ,     -
+   some     -
+   have     -
+   been     -
+ caught     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P142_GDP
+   [CLS]    -
+       l   (0
+    ##ic   0)
+      is    -
+thinking    -
+      of    -
+      up   (1
+##dating    -
+   their    -
+    work    -
+policies   1)
+       .    -
+      ch    -
+   ##iar    -
+  ##elli    -
+    said    -
+       l   (0
+    ##ic   0)
+     had    -
+ already    -
+    come    -
+   close    -
+      to    -
+   doing   (1
+      so   1)
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P143_GDP
+  [CLS]     -
+      v    (0
+  ##ami     -
+   ##ka    0)
+    did     -
+    not    (1
+  score     -
+    the     -
+   ball     -
+     on     -
+    the     -
+  wrong     -
+  court    1)
+      .     -
+    her   (0)
+failure     -
+     to     -
+     do    (1
+     so    1)
+    led     -
+    the     -
+   team     -
+   down     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P144_GDP
+  [CLS]    -
+  never    -
+    buy   (0
+ shares    -
+     of    -
+      a    -
+sinking    -
+company   0)
+      .    -
+     in    -
+  plain    -
+   ##er    -
+  terms    -
+      ,    -
+failure   (0
+     to    -
+     do    -
+     so   0)
+  leads    -
+     to    -
+   loss    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P145_GDP
+     [CLS]    -
+     never    -
+    engage   (0
+        in    -
+       any    -
+      rule    -
+  breaking    -
+activities   0)
+         .    -
+   failure   (0
+        to    -
+        do    -
+        so   0)
+       can    -
+    result    -
+        in    -
+     fines    -
+        or    -
+suspension    -
+       ##s    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P146_GDP
+   [CLS]    -
+      do    -
+     not    -
+    over   (0
+  ##take    -
+      ve    -
+  ##iche    -
+    ##ls    -
+      on    -
+highways   0)
+       .    -
+      if    -
+  caught    -
+       ,    -
+ failure   (0
+      to    -
+      do    -
+      so   0)
+   would    -
+      be    -
+       a    -
+  reason    -
+     for    -
+       a    -
+  severe    -
+accident    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P147_GDP
+    [CLS]       -
+       do       -
+      not       -
+     leak      (0
+   petrol       -
+       in       -
+   public      (1
+   places   0)|1)
+        .       -
+  failure      (0
+       to       -
+       do       -
+       so      0)
+    would       -
+certainly       -
+    cause       -
+        a       -
+     huge       -
+     fire       -
+      and       -
+     then       -
+   damage       -
+       to       -
+     them     (1)
+        .       -
+    [SEP]       -
+#end document
+
+#begin document P148_GDP
+    [CLS]    -
+       do    -
+  attempt    -
+       to    -
+     land   (0
+ aircraft    -
+    below    -
+      470    -
+       km    -
+        /    -
+        h   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+  damaged    -
+     both    -
+      the    -
+propeller    -
+      and    -
+      the    -
+   runway    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P149_GDP
+    [CLS]    -
+       do    -
+      not    -
+  attempt    -
+       to    -
+      run   (0
+     this    -
+     game    -
+       on    -
+        a    -
+   laptop   0)
+        .    -
+      the   (0
+  failure    -
+       to    -
+       do    -
+       so   0)
+     will    -
+   result    -
+       in    -
+reference    -
+   memory    -
+    error    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P150_GDP
+       [CLS]    -
+          do    -
+         not    -
+        stab   (0
+        your    -
+     friends   0)
+          at    -
+         any    -
+        cost    -
+           .    -
+     failure   (0
+          to    -
+          do    -
+          so   0)
+          is    -
+      punish    -
+      ##able    -
+          by    -
+imprisonment    -
+         and    -
+ substantial    -
+       fines    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P151_GDP
+        [CLS]    -
+           do    -
+          not    -
+         jump   (0
+         your    -
+          car    -
+         from    -
+         high    -
+           to    -
+          low    -
+         land   0)
+            .    -
+      failure   (0
+           to    -
+           do    -
+           so   0)
+          may    -
+       result    -
+           in    -
+          the    -
+       driver    -
+        being    -
+automatically    -
+       killed    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P152_GDP
+    [CLS]    -
+       do    -
+      not    -
+     free   (0
+      the    -
+  animals    -
+       on    -
+      the    -
+     road   0)
+        .    -
+  failure   (0
+       to    -
+       do    -
+       so   0)
+      may    -
+   result    -
+       in    -
+    minor    -
+       or    -
+    major    -
+accidents    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P153_GDP
+    [CLS]     -
+        s    (0
+     ##hr     -
+     ##ey     -
+      ##a    0)
+   turned    (2
+       on     -
+      the     -
+     coil     -
+      ##s    2)
+       to     -
+     kill     -
+        m    (1
+     ##os     -
+  ##quito     -
+     ##es    1)
+        .     -
+    doing    (2
+       so    2)
+        ,     -
+      she   (0)
+     says     -
+        ,     -
+   narrow     -
+      ##s     -
+    their   (1)
+prospects     -
+      for     -
+ survival     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P154_GDP
+     [CLS]    -
+        it    -
+         '    -
+         s    -
+ difficult    -
+        to    -
+      ride   (0
+         a    -
+    racing    -
+      bike    -
+        on    -
+        un    -
+     ##lev    -
+     ##ele    -
+       ##d    -
+      road   0)
+         .    -
+     doing   (0
+        so   0)
+     seems    -
+impossible    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P155_GDP
+      [CLS]     -
+politicians   (0)
+       didn     -
+          '     -
+          t     -
+   showcase    (1
+  necessary     -
+     things     -
+         at     -
+        the     -
+     summit    1)
+          .     -
+      their   (0)
+    failure     -
+         to     -
+         do    (1
+         so    1)
+        has     -
+      stung     -
+        the     -
+   national     -
+ conscience     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P156_GDP
+       [CLS]    -
+     resolve   (0
+         the    -
+    problems   0)
+          as    -
+     quickly    -
+          as    -
+    possible    -
+           .    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+       could    -
+        have    -
+     further    -
+    negative    -
+      rating    -
+implications    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P157_GDP
+  [CLS]    -
+ always    -
+   wear   (0
+      a    -
+ helmet    -
+  while    -
+ riding   0)
+   your    -
+   bike    -
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+   will    -
+ result    -
+     in    -
+      a    -
+ sturdy    -
+   fine    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P158_GDP
+     [CLS]    -
+  maintain   (0
+       law    -
+       and    -
+     order   0)
+    always    -
+       and    -
+everywhere    -
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+     could    -
+   violate    -
+      once    -
+     right    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P159_GDP
+   [CLS]    -
+  always    -
+   throw   (0
+ garbage    -
+      in    -
+     the    -
+    dust    -
+   ##bin   0)
+       .    -
+ failure    -
+      to    -
+      do   (0
+      so   0)
+   could    -
+  spread    -
+ several    -
+diseases    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P160_GDP
+     [CLS]    -
+government    -
+    should    -
+    invest   (0
+        in    -
+        it    -
+       and    -
+       the    -
+         c    -
+       ##s    -
+    sector   0)
+         .    -
+   failure    -
+        to    -
+        do   (0
+        so   0)
+      will    -
+    ensure    -
+ prolonged    -
+  economic    -
+       and    -
+    social    -
+   turmoil    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P161_GDP
+      [CLS]    -
+      never    -
+        put   (0
+      steel    -
+         in    -
+       your    -
+       oven   0)
+          .    -
+    failure   (0
+         to    -
+         do    -
+         so   0)
+      risks    -
+          a    -
+       life    -
+          -    -
+threatening    -
+     attack    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P162_GDP
+    [CLS]    -
+     dump   (0
+      the    -
+  battery    -
+ properly    -
+    under    -
+      the    -
+   ground   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+       in    -
+     ##cu    -
+     ##rs    -
+ criminal    -
+penalties    -
+       or    -
+    fines    -
+    under    -
+        s    -
+     ##wi    -
+     ##ss    -
+      law    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P163_GDP
+      [CLS]    -
+         do    -
+        not    -
+      argue   (0
+      about    -
+   feminism   0)
+          .    -
+    failure   (0
+         to    -
+         do    -
+         so   0)
+        may    -
+     result    -
+         in    -
+         un    -
+      ##con    -
+      ##tro    -
+      ##lla    -
+      ##ble    -
+   negative    -
+campaigning    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P164_GDP
+    [CLS]    -
+      one    -
+   should    -
+    never    -
+    spill   (0
+      any    -
+     kind    -
+       of    -
+   liquid    -
+       on    -
+        a    -
+  machine    -
+    while    -
+   repair    -
+    ##ing   0)
+        .    -
+  service    -
+providers    -
+    would    -
+      not    -
+       be    -
+   liable    -
+      for    -
+  failure   (0
+       to    -
+       do    -
+       so   0)
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P165_GDP
+       [CLS]    -
+          do    -
+         not    -
+        open   (0
+         the    -
+         lid    -
+       while    -
+         the    -
+       juice    -
+         ##r    -
+          is    -
+   operating   0)
+           .    -
+     failure   (0
+          to    -
+      follow    -
+         the    -
+instructions   0)
+        will    -
+       spill    -
+         the    -
+     content    -
+         all    -
+      around    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P166_GDP
+      [CLS]    -
+         do    -
+        not    -
+       turn   (0
+        off    -
+        the    -
+      power    -
+      while    -
+        the    -
+    machine    -
+         is    -
+  operating   0)
+          .    -
+    failure   (0
+         to    -
+     follow    -
+       this    -
+instruction   0)
+        can    -
+      cause    -
+     damage    -
+         to    -
+        the    -
+    product    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P167_GDP
+      [CLS]    -
+         do    -
+        not    -
+     change   (0
+        the   (1
+       wash    -
+      cycle   1)
+         in    -
+        the    -
+     middle    -
+         of    -
+   cleaning   0)
+          .    -
+    failure   (0
+         to    -
+     follow    -
+       this    -
+instruction   0)
+       will    -
+       harm    -
+        the   (1
+       wash    -
+      cycle   1)
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P168_GDP
+      [CLS]    -
+         do    -
+        not    -
+       open   (0
+        the    -
+        lid    -
+      while    -
+        the    -
+    machine    -
+         is    -
+functioning   0)
+          .    -
+    failure   (0
+         to    -
+     follow    -
+       this    -
+instruction   0)
+       will    -
+       harm    -
+        the    -
+       wash    -
+      cycle    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P169_GDP
+   [CLS]    -
+ clothes   (0
+     can    -
+     get    -
+ stained   0)
+       .    -
+    this   (0
+  occurs   0)
+    when    -
+     you    -
+     add    -
+    many    -
+ clothes    -
+together    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P170_GDP
+  [CLS]     -
+     if     -
+    the    (0
+   oven    0)
+ smells    (1
+     pu     -
+  ##nge     -
+   ##nt    1)
+      ,     -
+   turn     -
+     it   (0)
+    off     -
+      .     -
+   this   (1)
+  could     -
+     be     -
+because     -
+     of     -
+     an     -
+    oil     -
+  spill     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P171_GDP
+  [CLS]     -
+   open     -
+control     -
+    pan     -
+  ##nel     -
+    and     -
+     un    (0
+ ##ista     -
+   ##ll     -
+    the     -
+program    0)
+      .     -
+   this   (0)
+    may     -
+resolve     -
+    the     -
+  issue     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P172_GDP
+  [CLS]     -
+   turn     -
+    off     -
+    the    (0
+      v     -
+   ##ac     -
+  ##cum     -
+cleaner    0)
+     if     -
+     it   (0)
+  makes     -
+      a    (1
+    rat     -
+##tling     -
+  noise    1)
+      .     -
+     it   (1)
+  could     -
+     be     -
+      a     -
+  metal     -
+  piece     -
+ sucked     -
+ inside     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P173_GDP
+   [CLS]     -
+      di     -
+    ##sp     -
+   ##ose     -
+     off     -
+     the    (0
+ leaking     -
+ battery    0)
+properly     -
+       .     -
+      it   (0)
+   could     -
+   cause     -
+    harm     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P174_GDP
+  [CLS]     -
+     do     -
+    not     -
+     di    (0
+   ##sp     -
+  ##ose     -
+     of     -
+    the     -
+battery     -
+     in     -
+      a     -
+   dust     -
+  ##bin    0)
+      .     -
+     it   (0)
+  could     -
+  catch     -
+   fire     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P175_GDP
+   [CLS]       -
+      do       -
+     not       -
+   press      (1
+strongly       -
+    upon       -
+     the      (0
+   panel   0)|1)
+    with       -
+       a       -
+    hand       -
+      or       -
+       a       -
+   sharp       -
+  object       -
+    such       -
+      as       -
+       a       -
+    nail       -
+       ,       -
+  pencil       -
+       ,       -
+     pen       -
+      or       -
+    make       -
+       a       -
+ scratch       -
+      on       -
+      it     (0)
+      as       -
+      it     (1)
+     may       -
+   cause       -
+  damage       -
+      to       -
+  screen       -
+       .       -
+   [SEP]       -
+#end document
+
+#begin document P176_GDP
+    [CLS]    -
+       do    -
+      not    -
+  connect   (0
+      the    -
+      air    -
+condition    -
+     ##er    -
+     with    -
+      the    -
+       in    -
+   ##vert    -
+     ##er   0)
+        .    -
+  failure   (0
+       to    -
+       do    -
+     this   0)
+      may    -
+    cause    -
+      the    -
+  circuit    -
+       to    -
+    short    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P177_GDP
+     [CLS]    -
+        do    -
+       not    -
+      jail   (0
+   ##break    -
+       the    -
+    device   0)
+         .    -
+   failure   (0
+        to    -
+        do    -
+        so   0)
+       may    -
+    result    -
+        in    -
+        re    -
+##vocation    -
+        of    -
+permission    -
+       ##s    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P178_GDP
+  [CLS]     -
+     do     -
+    not     -
+  apply    (0
+   oils     -
+      ,     -
+      l     -
+   ##ub     -
+ ##rica     -
+  ##nts     -
+     to     -
+    the     -
+  screw     -
+  parts    0)
+   when     -
+    ass     -
+   ##em     -
+##bling     -
+    the    (1
+product    1)
+     as     -
+     it   (0)
+    may     -
+ damage     -
+    the    (1
+product    1)
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P179_GDP
+       [CLS]    -
+          do    -
+         not    -
+      export   (0
+       drugs    -
+           .    -
+          do    -
+         not    -
+      export    -
+     alcohol   0)
+           .    -
+     failure   (0
+          to    -
+      follow    -
+       these    -
+instructions   0)
+        will    -
+      result    -
+          in    -
+         the    -
+      import    -
+       ##ers    -
+       being    -
+         der    -
+        ##eg    -
+     ##ister    -
+        ##ed    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P180_GDP
+  [CLS]     -
+      i   (0)
+   want     -
+     to     -
+    get    (1
+     an     -
+      '     -
+      a     -
+      '    1)
+      ,     -
+    but     -
+     to     -
+     do    (1
+     so    1)
+      ,     -
+      i   (0)
+   need     -
+     to     -
+    get     -
+      a     -
+perfect     -
+  score     -
+     on     -
+    the     -
+   next     -
+   test     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P181_GDP
+  [CLS]     -
+     as     -
+    the     -
+ father     -
+   told     -
+    the    (0
+  child    0)
+     to     -
+   stop    (1
+running    1)
+      ,     -
+     it   (0)
+    did    (1
+     so    1)
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P182_GDP
+    [CLS]    -
+        i    -
+      ate   (0
+       an    -
+    apple   0)
+yesterday    -
+       in    -
+      the    -
+     park    -
+        ,    -
+      and    -
+        m    -
+    ##oir    -
+      ##a    -
+      did   (0
+       so   0)
+    today    -
+       in    -
+      the    -
+   garden    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P183_GDP
+  [CLS]     -
+    tan    (0
+   ##ya    0)
+   sang   (1)
+      ,     -
+    and     -
+    she   (0)
+    did    (1
+     so    1)
+because     -
+    she   (0)
+    was     -
+  swept     -
+   away     -
+     by     -
+    the     -
+  music     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P184_GDP
+  [CLS]     -
+    ton    (0
+   ##ya    0)
+ danced    (1
+ wildly    1)
+      ,     -
+    and     -
+    she   (0)
+    did    (1
+     so    1)
+because     -
+    she   (0)
+    was     -
+  swept     -
+   away     -
+     by     -
+    the     -
+  music     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P185_GDP
+[CLS]    -
+    j    -
+ ##oh    -
+  ##n    -
+ took   (0
+  the    -
+ exam   0)
+    ,    -
+  and    -
+    i    -
+  did   (0
+   so   0)
+    ,    -
+  too    -
+    .    -
+[SEP]    -
+#end document
+
+#begin document P186_GDP
+[CLS]     -
+    j     -
+ ##oh     -
+  ##n     -
+ took   (0)
+  the     -
+  mid     -
+##ter     -
+  ##m     -
+ exam     -
+    ,     -
+  and     -
+    i     -
+  did   (0)
+  the     -
+final     -
+    .     -
+[SEP]     -
+#end document
+
+#begin document P187_GDP
+[CLS]    -
+    j    -
+ ##oh    -
+  ##n    -
+ gave   (0
+    a    -
+ book    -
+   to    -
+  pet    -
+  ##e   0)
+    ,    -
+  and    -
+    i    -
+  did   (0
+   so   0)
+    ,    -
+  too    -
+    .    -
+[SEP]    -
+#end document
+
+#begin document P188_GDP
+[CLS]    -
+    j    -
+ ##oh    -
+  ##n    -
+ gave   (0
+    a    -
+ gift   0)
+   to    -
+  pet    -
+  ##e    -
+    ,    -
+  and    -
+    i    -
+  did   (0
+   so   0)
+   to    -
+   ma    -
+ ##ry    -
+    .    -
+[SEP]    -
+#end document
+
+#begin document P189_GDP
+ [CLS]    -
+     j    -
+  ##oh    -
+   ##n    -
+loaded   (0
+     a    -
+  sack    -
+  onto    -
+   the    -
+ truck   0)
+     ,    -
+   and    -
+     i    -
+   did   (0
+    so   0)
+     ,    -
+   too    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P190_GDP
+ [CLS]    -
+     j    -
+  ##oh    -
+   ##n    -
+loaded   (0
+     a    -
+  sack   0)
+  onto    -
+   the    -
+ truck    -
+     ,    -
+   and    -
+     i    -
+   did   (0
+    so   0)
+  onto    -
+   the    -
+ wagon    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P191_GDP
+    [CLS]    -
+        j    -
+     ##oh    -
+      ##n    -
+    flies   (0
+   planes   0)
+carefully    -
+        ,    -
+      but    -
+        i    -
+       do   (0
+       so   0)
+     with    -
+ reckless    -
+  abandon    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P192_GDP
+  [CLS]    -
+      j    -
+   ##oh    -
+    ##n    -
+ worked   (0
+     on    -
+    the    -
+problem   0)
+    for    -
+  eight    -
+  hours    -
+      ,    -
+    but    -
+      i    -
+    did   (0
+     so   0)
+    for    -
+   only    -
+    two    -
+  hours    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P193_GDP
+   [CLS]    -
+     the    -
+    army    -
+destroys   (0
+villages   0)
+      by    -
+   shell    -
+   ##ing    -
+    them    -
+       ,    -
+     but    -
+     the    -
+     air    -
+   force    -
+    does   (0
+      so   0)
+      by    -
+dropping    -
+     nap    -
+    ##al    -
+     ##m    -
+   bombs    -
+      on    -
+    them    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P194_GDP
+ [CLS]    -
+     j    -
+  ##oh    -
+   ##n    -
+   ate   (0
+    an    -
+ apple    -
+    in    -
+   the    -
+  park    -
+    on    -
+     f    -
+##rida    -
+   ##y   0)
+     ,    -
+   and    -
+   pet    -
+  ##er    -
+   did   (0
+    so   0)
+     ,    -
+   too    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P195_GDP
+ [CLS]    -
+ robin    -
+ slept   (0
+   for    -
+twelve    -
+ hours   0)
+    in    -
+   the    -
+     b    -
+ ##unk    -
+ ##bed    -
+     ,    -
+   and    -
+   les    -
+ ##lie    -
+   did   (0
+    so   0)
+    on    -
+   the    -
+     f    -
+ ##uto    -
+   ##n    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P196_GDP
+ [CLS]       -
+     i       -
+  have       -
+ never       -
+ridden      (1
+     a      (2
+  came       -
+   ##l   1)|2)
+     ,       -
+   but       -
+     i      (0
+ ##van      0)
+   has       -
+  done      (1
+    so      1)
+     ,       -
+   and       -
+    he     (0)
+  said       -
+    it     (2)
+     s       -
+ ##tan       -
+   ##k       -
+    ho       -
+ ##rri       -
+ ##bly       -
+     .       -
+ [SEP]       -
+#end document
+
+#begin document P197_GDP
+     [CLS]     -
+         l    (0
+     ##uke    0)
+     asked    (1
+       his   (0)
+girlfriend     -
+        to     -
+       the     -
+       pro     -
+       ##m    1)
+         ,     -
+       and     -
+         s     -
+    ##cott     -
+       did    (1
+        so    1)
+         ,     -
+       too     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P198_GDP
+ [CLS]     -
+    de    (0
+ ##vin    0)
+  gave    (1
+   his   (0)
+mother     -
+     a     -
+   pie    1)
+     ,     -
+   and     -
+     j     -
+ ##ere     -
+  ##my     -
+   did    (1
+    so    1)
+     ,     -
+   too     -
+     .     -
+ [SEP]     -
+#end document
+
+#begin document P199_GDP
+      [CLS]     -
+      since     -
+ regardless     -
+         of     -
+      which     -
+        bit     -
+         is     -
+  initially     -
+   assigned     -
+          ,     -
+         it     -
+       will     -
+         be     -
+    flipped   (0)
+         if     -
+       more     -
+information     -
+         is     -
+     gained     -
+         by     -
+      doing    (0
+         so    0)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P200_GDP
+      [CLS]    -
+    section    -
+          1    -
+   provides    -
+        the    -
+   examples    -
+         to    -
+         be    -
+    derived   (0
+         by    -
+        gap    -
+     ##ping   0)
+          ,    -
+        and    -
+          a    -
+formulation    -
+         of    -
+        gap    -
+     ##ping    -
+    capable    -
+         of    -
+      doing   (0
+         so   0)
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P201_GDP
+[CLS]     -
+    i     -
+  saw   (0)
+  the     -
+ same     -
+  man     -
+ that     -
+  you     -
+  did   (0)
+ last     -
+ week     -
+    .     -
+[SEP]     -
+#end document
+
+#begin document P202_GDP
+[CLS]    -
+  ash    -
+##ley    -
+faint   (0
+ ##ed    -
+   at    -
+  the    -
+party   0)
+    ,    -
+  and    -
+   ma    -
+##ure    -
+ ##en    -
+  did   (0
+   so   0)
+    ,    -
+  too    -
+    .    -
+[SEP]    -
+#end document
+
+#begin document P203_GDP
+ [CLS]    -
+    mi    -
+##chel    -
+  ##le    -
+  fell   (0
+  down    -
+   the    -
+stairs   0)
+     ,    -
+   and    -
+    ji    -
+  ##ll    -
+   did   (0
+    so   0)
+     ,    -
+   too    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P204_GDP
+   [CLS]    -
+     the    -
+    vase    -
+     was    -
+  broken   (0
+      by    -
+     the    -
+children   0)
+       ,    -
+     and    -
+     the    -
+     jar    -
+     was    -
+    done   (0
+      so   0)
+       ,    -
+     too    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P205_GDP
+      [CLS]     -
+         sa    (0
+        ##m     -
+          '     -
+          s    0)
+destruction    (1
+         of     -
+        his   (0)
+  documents    1)
+       this     -
+    morning     -
+        was     -
+   preceded     -
+         by     -
+       bill     -
+          '     -
+          s     -
+      doing    (1
+         so    1)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P206_GDP
+  [CLS]     -
+     su    (0
+  ##san    0)
+managed     -
+     to     -
+  build    (1
+      a     -
+    new     -
+  house    1)
+      ,     -
+    and     -
+    she   (0)
+managed     -
+     to     -
+     do    (1
+     so    1)
+without     -
+  going     -
+   over     -
+    her   (0)
+ budget     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P207_GDP
+    [CLS]    -
+     four    -
+   states    -
+      are    -
+currently    -
+  cutting   (0
+   people    -
+     from    -
+       me    -
+    ##dic    -
+    ##aid    -
+    rolls   0)
+      and    -
+   others    -
+     will    -
+   likely    -
+    start    -
+    doing   (0
+       so   0)
+       in    -
+   coming    -
+    years    -
+        ,    -
+     bred    -
+    ##ese    -
+      ##n    -
+     said    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P208_GDP
+     [CLS]    -
+      that    -
+         '    -
+         s    -
+       one    -
+        of    -
+       the    -
+   reasons    -
+      many    -
+  forensic    -
+   science    -
+professors    -
+       say    -
+  painting   (0
+         a    -
+ realistic    -
+   picture    -
+        of    -
+       the    -
+       job   0)
+        is    -
+        so    -
+     vital    -
+         ,    -
+      even    -
+        if    -
+     doing   (0
+        so   0)
+    causes    -
+      some    -
+  students    -
+        to    -
+       run    -
+       the    -
+     other    -
+       way    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P209_GDP
+    [CLS]     -
+       if     -
+        a    (0
+    large     -
+        -     -
+   market     -
+     team    0)
+    needs     -
+    stars     -
+       to     -
+  compete    (1
+     with     -
+    other     -
+    major     -
+        -     -
+   league     -
+   sports     -
+       in     -
+      its   (0)
+     area     -
+      for     -
+      the     -
+     fans    1)
+        '     -
+ interest     -
+        ,     -
+     then     -
+       it   (0)
+   should     -
+      not     -
+       be     -
+prevented     -
+     from     -
+    doing    (1
+       so    1)
+       by     -
+        a     -
+     hard     -
+      cap     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P210_GDP
+      [CLS]     -
+         el     -
+      ##iza     -
+     ##beth     -
+         ho     -
+     ##dges     -
+          ,     -
+          a     -
+    defence     -
+ department     -
+      spoke     -
+        ##s     -
+    ##woman     -
+          ,     -
+       said     -
+        the    (0
+   military    0)
+        has     -
+        not     -
+encountered     -
+        any     -
+   problems     -
+  acquiring    (1
+      spare     -
+      parts     -
+        for     -
+        the     -
+ submarines    1)
+        and     -
+         is     -
+  confident     -
+         it   (0)
+       will     -
+         be     -
+       able     -
+         to     -
+       keep     -
+      doing    (1
+         so    1)
+         in     -
+        the     -
+     future     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P211_GDP
+       [CLS]     -
+       while     -
+        free    (0
+       ##man    0)
+         has     -
+         yet     -
+          to     -
+    formally    (1
+    announce     -
+         his   (0)
+       plans     -
+          to     -
+       begin     -
+construction     -
+          of     -
+         the     -
+      office     -
+       tower    1)
+           ,     -
+          he   (0)
+         has     -
+     broadly     -
+      hinted     -
+        that     -
+          he   (0)
+       might     -
+          be     -
+       close     -
+          to     -
+       doing    (1
+          so    1)
+          in     -
+         the     -
+        near     -
+      future     -
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P212_GDP
+     [CLS]    -
+        it    -
+      took    -
+     three    -
+     years    -
+        of    -
+      hard    -
+    ##work    -
+        to    -
+       win   (0
+         a    -
+tournament   0)
+         ,    -
+       and    -
+        by    -
+     doing   (0
+        so   0)
+        he    -
+      took    -
+      home    -
+         $    -
+        23    -
+         ,    -
+       000    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P213_GDP
+       [CLS]        -
+         had        -
+        this        -
+        been        -
+           a       (0
+      boxing        -
+       match       0)
+           ,        -
+         the        -
+     referee        -
+       would        -
+        have        -
+     stopped       (1
+          it   (0)|1)
+         and        -
+        been        -
+         con        -
+       ##gra        -
+        ##tu        -
+     ##lated        -
+         for        -
+       doing       (1
+          so       1)
+          on        -
+humanitarian        -
+     grounds        -
+           .        -
+       [SEP]        -
+#end document
+
+#begin document P214_GDP
+    [CLS]    -
+      the    -
+        t    -
+     ##ri    -
+     ##bu    -
+     ##ne    -
+    found    -
+       in    -
+        a    -
+     spot    -
+    check    -
+     that    -
+     many    -
+ building    -
+   owners    -
+     hadn    -
+        '    -
+        t    -
+corrected   (0
+    porch    -
+ problems   0)
+     even    -
+    after    -
+    being    -
+  ordered    -
+       to    -
+       by    -
+   judges    -
+        ,    -
+      and    -
+    those    -
+      who    -
+     were    -
+    fined    -
+      for    -
+      not    -
+    doing   (0
+       so   0)
+    often    -
+  managed    -
+       to    -
+   reduce    -
+    those    -
+    fines    -
+       to    -
+     less    -
+     than    -
+        $    -
+        1    -
+        ,    -
+      000    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P215_GDP
+     [CLS]    -
+       she    -
+      didn    -
+         '    -
+         t    -
+        go   (0
+       out    -
+       for    -
+     track   0)
+        as    -
+         a    -
+  freshman    -
+         ,    -
+       and    -
+       had    -
+        no    -
+intentions    -
+        of    -
+     doing   (0
+        so   0)
+        as    -
+         a    -
+ sophomore    -
+         ,    -
+    either    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P216_GDP
+     [CLS]    -
+        we    -
+contribute    -
+        to    -
+   raising   (0
+ standards    -
+        to    -
+         a    -
+     level    -
+     where    -
+        we    -
+       can    -
+   compete    -
+   against    -
+    anyone   0)
+         .    -
+        by    -
+     doing   (0
+        so   0)
+         ,    -
+        we    -
+       can    -
+      have    -
+         a    -
+       big    -
+    impact    -
+        on    -
+       the    -
+  catering    -
+  industry    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P217_GDP
+     [CLS]    -
+previously    -
+         ,    -
+       you    -
+      were    -
+  required    -
+        to    -
+   retreat   (0
+      from    -
+        an    -
+    attack   0)
+        if    -
+     doing   (0
+        so   0)
+     could    -
+   prevent    -
+       the    -
+       use    -
+        of    -
+    deadly    -
+     force    -
+         ,    -
+    unless    -
+retreating    -
+     would    -
+  increase    -
+       the    -
+      risk    -
+        of    -
+  imminent    -
+    danger    -
+        to    -
+  yourself    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P218_GDP
+        [CLS]     -
+         many    (0
+     students    0)
+          are     -
+       taking    (1
+          the     -
+         data     -
+      science     -
+        class    1)
+            .     -
+         they   (0)
+          are     -
+        doing    (1
+           so    1)
+      because     -
+           of     -
+          the     -
+      service     -
+opportunities     -
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P219_GDP
+     [CLS]        -
+         m       (0
+     ##cco        -
+      ##rk        -
+      ##el       0)
+      said        -
+        he      (0)
+   learned        -
+         s       (1
+      ##ny        -
+     ##der       1)
+       was        -
+  stealing       (2
+      from        -
+       him   (0)|2)
+       and        -
+      when        -
+confronted        -
+       she      (1)
+  admitted        -
+     doing       (2
+        so       2)
+      over        -
+       the        -
+      past        -
+       few        -
+     years        -
+         ,        -
+ according        -
+        to        -
+     court        -
+ documents        -
+         .        -
+     [SEP]        -
+#end document
+
+#begin document P220_GDP
+   [CLS]     -
+  unlike     -
+   major     -
+    euro     -
+    ##pe     -
+    ##an     -
+carriers     -
+    that     -
+     fly    (1
+  across     -
+     the     -
+      at     -
+  ##lant     -
+    ##ic    1)
+     and     -
+      in     -
+   doing    (1
+      so    1)
+    book     -
+    some     -
+      of     -
+   their     -
+ revenue     -
+      in     -
+ dollars     -
+       ,     -
+     the    (0
+discount     -
+ players    0)
+    only     -
+     fly     -
+  within     -
+    euro     -
+    ##pe     -
+       ,     -
+ leaving     -
+    them   (0)
+ further     -
+ exposed     -
+       ,     -
+       o     -
+    ##ln     -
+    ##ey     -
+   notes     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P221_GDP
+      [CLS]     -
+       this     -
+         is     -
+ disturbing     -
+    because     -
+        not     -
+       only     -
+        are     -
+         18    (0
+          -     -
+       year     -
+          -     -
+       olds    0)
+      being     -
+  recruited     -
+         to     -
+       ship    (1
+        off     -
+         to     -
+          i     -
+       ##ra     -
+        ##q    1)
+          ,     -
+       they   (0)
+        are     -
+      being     -
+      trick     -
+       ##ed     -
+       into     -
+      doing    (1
+         so    1)
+    through     -
+ misleading     -
+information     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P222_GDP
+      [CLS]     -
+       some    (0
+politicians    0)
+        are     -
+   shouting    (1
+        for     -
+   resource     -
+    control    1)
+          .     -
+       they   (0)
+        are     -
+      doing    (1
+         so    1)
+         to     -
+       gain     -
+ popularity     -
+          ,     -
+        and     -
+       that     -
+         is     -
+  confusing     -
+        the     -
+     issues     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P223_GDP
+   [CLS]     -
+      he   (0)
+      is     -
+restless     -
+     and     -
+   eager     -
+      to     -
+   drive    (1
+   again    1)
+       ,     -
+     and     -
+      he   (0)
+     won     -
+       '     -
+       t     -
+      be     -
+   doing    (1
+      so    1)
+   until     -
+    next     -
+    week     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P224_GDP
+    [CLS]     -
+      the    (0
+  company    0)
+     will     -
+   review    (1
+      its   (0)
+practices     -
+       of     -
+  issuing     -
+financial     -
+  outlook     -
+      ##s    1)
+        .     -
+    doing    (1
+       so    1)
+ requires     -
+   strong     -
+    power     -
+      and     -
+stability     -
+       in     -
+      the    (0
+  company    0)
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P225_GDP
+       [CLS]    -
+          in    -
+        2008    -
+           ,    -
+           l    -
+        ##in    -
+         ##x    -
+    expanded    -
+          by    -
+     opening   (0
+       three    -
+         new    -
+         pop    -
+         ##s   0)
+           ,    -
+        this    -
+        time    -
+      adding    -
+considerably    -
+          to    -
+         the    -
+geographical    -
+   diversity    -
+          by    -
+       doing   (0
+          so   0)
+          in    -
+         the    -
+        city    -
+          of    -
+          lo    -
+      ##ndon    -
+           ,    -
+       north    -
+         act    -
+        ##on    -
+         and    -
+           s    -
+     ##lough    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P226_GDP
+    [CLS]    -
+according    -
+       to    -
+      mac    -
+    ##don    -
+    ##ald    -
+        ,    -
+       it    -
+       is    -
+ possible    -
+       to    -
+    leave   (0
+     hell    -
+      and    -
+    enter    -
+   heaven   0)
+        .    -
+    doing   (0
+       so   0)
+  implies    -
+  turning    -
+     away    -
+       or    -
+        ,    -
+       as    -
+ depicted    -
+       by    -
+       le    -
+     ##wi    -
+      ##s    -
+        ,    -
+       em    -
+##bracing    -
+ ultimate    -
+      and    -
+       un    -
+    ##cea    -
+   ##sing    -
+      joy    -
+   itself    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P227_GDP
+       [CLS]    -
+           a    -
+        core    -
+       basis    -
+          of    -
+   democracy    -
+           ,    -
+       being    -
+           a   (0
+  politician    -
+           '    -
+           s   0)
+     ability    -
+          to    -
+      freely   (1
+    advocate    -
+    policies   1)
+       which    -
+     benefit    -
+         his   (0
+          or    -
+         her   0)
+constituents    -
+           ,    -
+        also    -
+       makes    -
+          it    -
+   difficult    -
+          to    -
+       prove    -
+        that    -
+       doing   (1
+          so   1)
+       might    -
+          be    -
+           a    -
+       crime    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P228_GDP
+  [CLS]     -
+  after     -
+      a     -
+     fi     -
+##anche     -
+  ##tto     -
+      ,     -
+ giving    (0
+     up     -
+    the     -
+ bishop    0)
+    can     -
+ weaken     -
+    the     -
+  holes     -
+     in     -
+    the     -
+   pawn     -
+  chain     -
+    and     -
+  doing    (0
+     so    0)
+     in     -
+  front     -
+     of     -
+    the    (1
+ castle     -
+    ##d     -
+   king    1)
+    may     -
+   thus     -
+ affect     -
+    its   (1)
+ safety     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P229_GDP
+   [CLS]    -
+   after    -
+becoming   (0
+pregnant   0)
+    once    -
+       ,    -
+     cat    -
+   ##her    -
+   ##ine    -
+     had    -
+      no    -
+ trouble    -
+   doing   (0
+      so   0)
+   again    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P230_GDP
+     [CLS]     -
+throughout     -
+         t     -
+    ##rist     -
+      ##an     -
+         ,     -
+        wa    (0
+     ##gne     -
+       ##r    0)
+      uses    (1
+         a     -
+remarkable     -
+     range    1)
+        of     -
+orchestral     -
+    colour     -
+         ,     -
+   harmony     -
+         ,     -
+       and     -
+         p     -
+     ##oly     -
+   ##phony     -
+       and     -
+     doing    (1
+        so    1)
+      with     -
+         a     -
+   freedom     -
+    rarely     -
+     found     -
+        in     -
+       his   (0)
+   earlier     -
+    operas     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P231_GDP
+       [CLS]       -
+        many       -
+       users       -
+       shake      (1
+         the      (0
+        ball   0)|1)
+      before       -
+     turning       -
+          it     (0)
+     upright       -
+         but       -
+         the       -
+instructions       -
+        warn       -
+     against       -
+       doing      (1
+          so      1)
+          to       -
+       avoid       -
+     bubbles       -
+           .       -
+       [SEP]       -
+#end document
+
+#begin document P232_GDP
+  [CLS]     -
+anybody     -
+    can     -
+   test    (1
+whether     -
+      a    (0
+ number    0)
+     is     -
+  prime    1)
+     or     -
+      ,     -
+     if     -
+     it   (0)
+     is     -
+    not     -
+      ,     -
+  split     -
+     it   (0)
+   into     -
+  prime     -
+factors     -
+    and     -
+  doing    (1
+     so    1)
+rapidly     -
+     is     -
+another     -
+ matter     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P233_GDP
+       [CLS]     -
+           a     -
+    possible     -
+    solution     -
+          is     -
+          to     -
+      search    (0
+         for     -
+         the     -
+    sequence     -
+          of     -
+        code    0)
+       units     -
+     instead     -
+           ,     -
+         but     -
+       doing    (0
+          so    0)
+         may     -
+     produce     -
+       false    (1
+     matches    1)
+      unless     -
+         the     -
+    encoding     -
+          is     -
+specifically     -
+    designed     -
+          to     -
+       avoid     -
+          it   (1)
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P234_GDP
+    [CLS]    -
+       as    -
+      the    -
+  station    -
+       is    -
+protected    -
+       by    -
+       an    -
+   energy    -
+   shield    -
+        ,    -
+       ha    -
+      ##n    -
+    leads    -
+        a    -
+   strike    -
+     team    -
+       to    -
+  destroy   (0
+      the    -
+   shield    -
+generator    -
+       on    -
+      the    -
+   forest    -
+     moon    -
+       of    -
+      end    -
+     ##or   0)
+        .    -
+    doing   (0
+       so   0)
+    would    -
+    allow    -
+        a    -
+ squadron    -
+       of    -
+     star    -
+##fighter    -
+      ##s    -
+       to    -
+  destroy    -
+      the    -
+    death    -
+     star    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P235_GDP
+    [CLS]    -
+       at    -
+      the    -
+       83    -
+     ##rd    -
+  academy    -
+   awards    -
+ ceremony    -
+       in    -
+     2011    -
+        ,    -
+       he    -
+ appeared   (0
+       as    -
+        a    -
+presenter    -
+      for    -
+        a    -
+digitally    -
+ inserted    -
+        b    -
+     ##ob    -
+     hope   0)
+      and    -
+        ,    -
+   before    -
+    doing   (0
+       so   0)
+        ,    -
+      was    -
+    given    -
+        a    -
+ standing    -
+        o    -
+ ##vation    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P236_GDP
+     [CLS]     -
+        at     -
+      this     -
+        he   (0)
+      fled    (1
+      deep     -
+      into     -
+       the     -
+     woods    1)
+         ,     -
+       and     -
+     doing    (1
+        so    1)
+        he   (0)
+      came     -
+      upon     -
+         a     -
+      pond     -
+       and     -
+         ,     -
+    seeing     -
+       his     -
+reflection     -
+         ,     -
+   groaned     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P237_GDP
+     [CLS]     -
+        at     -
+      this     -
+     point     -
+         ,     -
+         c    (0
+      ##yr     -
+      ##il    0)
+ announced     -
+       his   (0)
+ intention     -
+        to     -
+      open    (1
+       the     -
+   council    1)
+         ,     -
+   however     -
+         ,     -
+       can     -
+      ##di     -
+    ##dian     -
+        en     -
+    ##join     -
+      ##ed     -
+       him   (0)
+      from     -
+     doing    (1
+        so    1)
+        on     -
+       the     -
+   grounds     -
+      that     -
+       the     -
+         r     -
+    ##oman     -
+       and     -
+      anti     -
+     ##och     -
+     ##ean     -
+delegation     -
+       ##s     -
+       had     -
+       not     -
+   arrived     -
+       yet     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P238_GDP
+     [CLS]    -
+        au    -
+     ##gus    -
+    ##tine    -
+        of    -
+       hip    -
+      ##po    -
+        is    -
+remembered    -
+       for    -
+       ass   (0
+      ##im    -
+     ##ila    -
+    ##ting    -
+       the    -
+     ideas    -
+        of    -
+         p    -
+     ##lat    -
+       ##o   0)
+         ,    -
+     while    -
+        th    -
+     ##oma    -
+       ##s    -
+         a    -
+    ##quin    -
+      ##as    -
+        is    -
+     known    -
+       for    -
+     doing   (0
+        so   0)
+      with    -
+       the    -
+     ideas    -
+        of    -
+         a    -
+   ##risto    -
+     ##tle    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P239_GDP
+      [CLS]     -
+         in     -
+         au     -
+     ##stra     -
+      ##lia     -
+          ,     -
+individuals   (0)
+        may     -
+    legally     -
+     change    (1
+      their   (0)
+      names    1)
+         as     -
+       long     -
+         as     -
+       they   (0)
+        are     -
+        not     -
+      doing    (1
+         so    1)
+        for     -
+   criminal     -
+   purposes     -
+          ,     -
+       such     -
+         as     -
+ committing     -
+      fraud     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P240_GDP
+     [CLS]    -
+      ball    -
+     ##ard    -
+  provided   (0
+     error   0)
+      like    -
+     other    -
+   writers    -
+       for    -
+       new    -
+    worlds    -
+         ,    -
+         z    -
+    ##olin    -
+       ##e    -
+      uses    -
+         "    -
+   science    -
+         -    -
+ fictional    -
+       and    -
+scientific    -
+  language    -
+       and    -
+   imagery    -
+        to    -
+  describe    -
+ perfectly    -
+  ordinary    -
+    scenes    -
+        of    -
+      life    -
+         "    -
+         ,    -
+       and    -
+        by    -
+     doing   (0
+        so   0)
+  produces    -
+         "    -
+   altered    -
+perception    -
+       ##s    -
+        of    -
+   reality    -
+        in    -
+       the    -
+    reader    -
+         .    -
+         "    -
+     [SEP]    -
+#end document
+
+#begin document P241_GDP
+        [CLS]    -
+      because    -
+           in    -
+        ##dia    -
+            '    -
+            s    -
+         food    -
+            &    -
+         drug    -
+    authority    -
+            (    -
+            f    -
+         ##da    -
+            -    -
+           in    -
+        ##dia    -
+            )    -
+        rules    -
+        state    -
+         that    -
+ transferring   (0
+            a    -
+         drug    -
+         from    -
+          one    -
+    container    -
+           to    -
+      another   0)
+           is    -
+   equivalent    -
+           to    -
+manufacturing    -
+            .    -
+       anyone    -
+        found    -
+        doing   (0
+           so   0)
+         must    -
+      possess    -
+            a    -
+         drug    -
+manufacturing    -
+      license    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P242_GDP
+    [CLS]     -
+    black     -
+    bears     -
+      are     -
+excellent     -
+      and     -
+   strong     -
+ swimmers   (0)
+      and     -
+       do    (0
+       so    0)
+      for     -
+ pleasure     -
+      and     -
+       to     -
+     feed     -
+  largely     -
+       on     -
+     fish     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P243_GDP
+      [CLS]     -
+         ca    (0
+       ##es     -
+       ##ar    0)
+      seems     -
+         to     -
+         be     -
+        one     -
+         of     -
+        the     -
+      first     -
+    authors     -
+         to     -
+distinguish    (1
+        the     -
+        two     -
+     groups    1)
+          ,     -
+        and     -
+         he   (0)
+        had     -
+          a     -
+  political     -
+     motive     -
+        for     -
+      doing    (1
+         so    1)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P244_GDP
+        [CLS]    -
+           ch    -
+         ##ar    -
+        ##les    -
+        would    -
+    construct   (0
+          the    -
+        first    -
+    permanent    -
+fortification   0)
+           in    -
+          the    -
+         city    -
+            ,    -
+        doing   (0
+           so   0)
+           on    -
+         that    -
+         same    -
+       island    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P245_GDP
+      [CLS]        -
+         ch       (0
+     ##rist        -
+      ##ine        -
+       ward        -
+          ,        -
+          j        -
+      ##uli        -
+       ##us        -
+         ii        -
+          ,        -
+    warrior        -
+       pope       0)
+       such        -
+accusations        -
+       were        -
+       made        -
+         to        -
+       disc       (1
+      ##red        -
+       ##it        -
+        him   (0)|1)
+          ,        -
+        but        -
+    perhaps        -
+         in        -
+      doing       (1
+         so       1)
+          ,        -
+          a        -
+       ##cc        -
+     ##user        -
+        ##s        -
+       were        -
+  attacking        -
+          a        -
+  perceived        -
+       weak        -
+      point        -
+          .        -
+      [SEP]        -
+#end document
+
+#begin document P246_GDP
+         [CLS]       -
+    communists       -
+          were       -
+      directed       -
+            to       -
+          join      (1
+           the      (0
+            km       -
+           ##t   0)|1)
+             ,       -
+            if       -
+         doing      (1
+            so      1)
+         would       -
+      increase       -
+           the       -
+       ability       -
+            of       -
+        agents       -
+            to       -
+            in       -
+          ##fi       -
+          ##lt       -
+        ##rate       -
+           the       -
+            km      (0
+           ##t      0)
+administrative       -
+             ,       -
+   educational       -
+             ,       -
+      economic       -
+             ,       -
+           and       -
+      military       -
+establishments       -
+             .       -
+         [SEP]       -
+#end document
+
+#begin document P247_GDP
+     [CLS]     -
+       con    (0
+      ##an     -
+         '     -
+         s    0)
+adventures     -
+     often     -
+    result     -
+        in     -
+       him   (0)
+performing    (1
+    heroic     -
+      feat     -
+       ##s    1)
+         ,     -
+    though     -
+       his   (0)
+motivation     -
+       for     -
+     doing    (1
+        so    1)
+        is     -
+   largely     -
+        to     -
+   protect     -
+       his   (0)
+       own     -
+  survival     -
+        or     -
+       for     -
+  personal     -
+      gain     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P248_GDP
+    [CLS]    -
+ contrary    -
+       to    -
+        a    -
+   common    -
+       mi    -
+    ##sco    -
+    ##nce    -
+  ##ption    -
+        ,    -
+       by    -
+  ##stand    -
+    ##ers    -
+   should    -
+      not    -
+  attempt    -
+       to    -
+    force   (0
+  objects    -
+     into    -
+      the    -
+    mouth    -
+       of    -
+      the    -
+   person    -
+suffering    -
+        a    -
+  seizure   0)
+        ,    -
+       as    -
+    doing   (0
+       so   0)
+      may    -
+    cause    -
+   injury    -
+       to    -
+      the    -
+    teeth    -
+      and    -
+      gum    -
+      ##s    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P249_GDP
+      [CLS]       -
+          s      (0
+       ##te       -
+       ##ve      0)
+   believed       -
+       that       -
+         by       -
+encouraging       -
+    exports       -
+          ,       -
+         he     (0)
+      could       -
+   increase      (2
+         am      (1
+     ##eric       -
+       ##an       -
+ prosperity   1)|2)
+          ,       -
+        and       -
+         by       -
+      doing      (2
+         so      2)
+          ,       -
+   position       -
+        the       -
+ republican       -
+      party       -
+         as       -
+        the       -
+     author       -
+         of       -
+       that      (1
+ prosperity      1)
+          ,       -
+   ensuring       -
+  continued       -
+  electoral       -
+    success       -
+          .       -
+      [SEP]       -
+#end document
+
+#begin document P250_GDP
+    [CLS]    -
+       in    -
+       no    -
+     ##ve    -
+   ##mber    -
+     1907    -
+        ,    -
+     crow    -
+    ##ley    -
+      and    -
+        j    -
+   ##ones    -
+  decided    -
+       to    -
+    found    -
+       an    -
+        o    -
+     ##cc    -
+    ##ult    -
+    order    -
+       to    -
+      act   (0
+       as    -
+        a    -
+successor   0)
+       to    -
+      the    -
+      her    -
+    ##met    -
+     ##ic    -
+    order    -
+       of    -
+      the    -
+   golden    -
+     dawn    -
+      and    -
+    being    -
+    aided    -
+       in    -
+    doing   (0
+       so   0)
+       by    -
+     full    -
+     ##er    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P251_GDP
+  [CLS]    -
+     cu    -
+  ##bis    -
+    ##m    -
+ spread   (0
+rapidly    -
+ across    -
+    the    -
+  globe   0)
+    and    -
+     in    -
+  doing   (0
+     so   0)
+evolved    -
+     to    -
+      a    -
+greater    -
+     or    -
+ lesser    -
+ extent    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P252_GDP
+    [CLS]    -
+      the    -
+    large    -
+ external    -
+        g    -
+    ##ill    -
+      ##s    -
+       of    -
+      the    -
+    crest    -
+     ##ed    -
+      new    -
+      ##t    -
+       in    -
+      new    -
+     ##ts    -
+        ,    -
+    there    -
+       is    -
+       no    -
+     true    -
+     meta    -
+    ##mor    -
+     ##ph    -
+   ##osis    -
+  because    -
+      new    -
+      ##t    -
+   larvae    -
+  already    -
+     feed   (0
+       on    -
+predators   0)
+      and    -
+ continue    -
+    doing   (0
+       so   0)
+       as    -
+   adults    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P253_GDP
+   [CLS]    -
+    pine    -
+  ##town    -
+       '    -
+       s    -
+       o    -
+    ##ly    -
+    ##mp    -
+    ##ic    -
+     bus    -
+   lines    -
+    laid   (0
+      on    -
+   extra    -
+services   0)
+     and    -
+   would    -
+continue    -
+      to    -
+      do   (0
+      so   0)
+  during    -
+     the    -
+  course    -
+      of    -
+     the    -
+    taxi    -
+  strike    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P254_GDP
+   [CLS]     -
+     the    (0
+      br     -
+  ##itis     -
+     ##h     -
+      it     -
+  worker    0)
+  fought    (1
+     his   (0)
+campaign     -
+    from     -
+  prison    1)
+       .     -
+     the     -
+    only     -
+  person     -
+      in     -
+     the     -
+      uk     -
+      to     -
+      do    (1
+      so    1)
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P255_GDP
+  [CLS]    -
+      i    -
+   have    -
+written   (0
+  about    -
+   this    -
+subject   0)
+ before    -
+    and    -
+   will    -
+     do   (0
+     so   0)
+  again    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P256_GDP
+    [CLS]    -
+        j    -
+     ##oh    -
+      ##n    -
+       is    -
+  advised    -
+      not   (0
+       to    -
+    drive    -
+      the    -
+      car    -
+    under    -
+      the    -
+influence    -
+       of    -
+  alcohol   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+      can    -
+   result    -
+       in    -
+        a    -
+   fourth    -
+        -    -
+   degree    -
+       mi    -
+      ##s    -
+     ##de    -
+     ##me    -
+    ##ano    -
+      ##r    -
+ criminal    -
+   charge    -
+      and    -
+ possible    -
+    civil    -
+   action    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P257_GDP
+      [CLS]     -
+         ne    (0
+      ##ena    0)
+    ordered    (1
+          a     -
+        mid     -
+       ##ye     -
+       ##ar     -
+     review     -
+         in     -
+          a     -
+        ##p     -
+      ##ril     -
+       2006    1)
+         if     -
+     winter     -
+     runoff     -
+predictions     -
+     looked     -
+      bleak     -
+          .     -
+        she   (0)
+   asserted     -
+        her   (0)
+  authority     -
+         to     -
+         do    (1
+         so    1)
+         if     -
+     needed     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P258_GDP
+       [CLS]    -
+          to    -
+      oppose   (0
+           a    -
+     country    -
+        with    -
+         the    -
+        most    -
+  population    -
+          in    -
+         the    -
+       world   0)
+         and    -
+          to    -
+          do   (0
+          so   0)
+          by    -
+illegitimate    -
+       means    -
+          is    -
+         not    -
+        only    -
+          un    -
+      ##wise    -
+         but    -
+        also    -
+   dangerous    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P259_GDP
+  [CLS]    -
+      j    -
+  ##ean    -
+   said    -
+putting   (0
+     on    -
+      a    -
+   seat    -
+ ##belt   0)
+ should    -
+     be    -
+ second    -
+ nature    -
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+  would    -
+ result    -
+     in    -
+  heavy    -
+  fines    -
+    and    -
+    dem    -
+  ##eri    -
+    ##t    -
+ points    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P260_GDP
+    [CLS]     -
+        i   (0)
+   wanted     -
+       to     -
+      buy    (1
+     back     -
+     this     -
+childhood     -
+   memory    1)
+      and     -
+        i   (0)
+    could     -
+       do    (1
+       so    1)
+       on     -
+        e     -
+    ##bay     -
+      for     -
+     less     -
+     than     -
+        $     -
+       20     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P261_GDP
+     [CLS]     -
+       the    (0
+department    0)
+       did     -
+       not     -
+   conduct    (1
+         a     -
+     third     -
+     round    1)
+         ,     -
+     using     -
+       the     -
+   western     -
+         b     -
+     ##lot     -
+         ,     -
+     until     -
+       the    (0
+department     -
+         '     -
+         s    0)
+ inspector     -
+   general     -
+         ,     -
+         p     -
+     ##hyl     -
+     ##lis     -
+         f     -
+     ##ong     -
+         ,     -
+   ordered     -
+        it   (0)
+        to     -
+        do    (1
+        so    1)
+       two     -
+     weeks     -
+       ago     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P262_GDP
+     [CLS]    -
+    anyone    -
+interested    -
+        in    -
+   contact   (0
+     ##ing    -
+       her   0)
+       may    -
+        do   (0
+        so   0)
+        at    -
+        75    -
+       ##5    -
+         -    -
+        06    -
+      ##55    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P263_GDP
+        [CLS]    -
+unfortunately    -
+            ,    -
+          the    -
+       acting    -
+    returning    -
+      officer    -
+     normally    -
+          has    -
+          the    -
+        power    -
+           to    -
+           am   (0
+        ##end    -
+          the    -
+     register    -
+         when    -
+            c    -
+    ##lerical    -
+       errors    -
+          are    -
+   discovered   0)
+          but    -
+           is    -
+      legally    -
+       unable    -
+           to    -
+           do   (0
+           so   0)
+       within    -
+         five    -
+      working    -
+         days    -
+           of    -
+           an    -
+     election    -
+       taking    -
+        place    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P264_GDP
+ [CLS]     -
+    ji    (0
+   ##m    0)
+   had     -
+    to     -
+ visit    (1
+   the     -
+office    1)
+     .     -
+    he   (0)
+   may     -
+    do    (1
+    so    1)
+    on     -
+   mon     -
+ ##day     -
+     .     -
+ [SEP]     -
+#end document
+
+#begin document P265_GDP
+     [CLS]     -
+        ad    (0
+      ##am    0)
+       was     -
+   allowed     -
+        to     -
+       use    (1
+       his   (0)
+wheelchair     -
+        in     -
+       the     -
+      mile     -
+       run     -
+       and     -
+       the     -
+   shuttle     -
+       run    1)
+         .     -
+        he   (0)
+    wanted     -
+        to     -
+        do    (1
+        so    1)
+     again     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P266_GDP
+    [CLS]     -
+countries   (0)
+    under     -
+ pressure     -
+       to     -
+    leave   (1)
+    would     -
+ probably     -
+       do    (1
+       so    1)
+  because     -
+     they   (0)
+   needed     -
+        a     -
+       de     -
+    ##val     -
+ ##uation     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P267_GDP
+    [CLS]    -
+  connect    -
+     ##ic    -
+     ##ut    -
+yesterday    -
+   became    -
+      the    -
+   second    -
+    state    -
+       to    -
+    offer   (0
+    civil    -
+   unions    -
+       to    -
+      gay    -
+  couples   0)
+      and    -
+      the    -
+    first    -
+       to    -
+       do   (0
+       so   0)
+  without    -
+    being    -
+   forced    -
+       by    -
+      the    -
+   courts    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P268_GDP
+   [CLS]     -
+       o    (0
+    ##ba     -
+    ##ma    0)
+    said     -
+    that     -
+     any     -
+ elected     -
+official     -
+   would     -
+     not    (1
+    miss     -
+     the     -
+ meeting    1)
+       .     -
+      he   (0)
+  warned     -
+    that     -
+ failure     -
+      to     -
+      do    (1
+      so    1)
+   could     -
+  result     -
+      in     -
+       a     -
+  public     -
+    back     -
+  ##lash     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P269_GDP
+      [CLS]     -
+         we     -
+        led     -
+    efforts     -
+         to     -
+         en     -
+      ##act     -
+legislation     -
+         to     -
+    address    (1
+        the     -
+      needs     -
+         of     -
+        mon     -
+     ##tana     -
+       ##ns    1)
+          ,     -
+      while     -
+  insisting     -
+       that     -
+        the    (0
+      state     -
+ government    0)
+       live     -
+     within     -
+        its   (0)
+      means     -
+        and     -
+         do    (1
+         so    1)
+    without     -
+          a     -
+        tax     -
+   increase     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P270_GDP
+       [CLS]       -
+         for       -
+       those       -
+          of       -
+         you       -
+         who       -
+       haven       -
+           '       -
+           t       -
+        seen      (0
+         the      (1
+           g       -
+         ##t       -
+           -       -
+         one       -
+       racer   0)|1)
+           ,       -
+           a       -
+        rare       -
+      chance       -
+          to       -
+          do      (0
+          so      0)
+          is       -
+      coming       -
+          up       -
+          at       -
+        this       -
+        year       -
+           '       -
+           s       -
+        good       -
+      ##wood       -
+    festival       -
+          of       -
+       speed       -
+          on       -
+           j       -
+       ##une       -
+          25       -
+           /       -
+          26       -
+           ,       -
+       where       -
+          it     (1)
+        will       -
+          be       -
+demonstrated       -
+          by       -
+          uk       -
+        ##yo       -
+          ka       -
+        ##ta       -
+      ##yama       -
+           .       -
+       [SEP]       -
+#end document
+
+#begin document P271_GDP
+      [CLS]    -
+     people    -
+        are    -
+ encouraged    -
+         to    -
+      avail   (0
+       free    -
+     health    -
+      check    -
+       ##up    -
+   services   0)
+          ,    -
+        but    -
+       most    -
+         of    -
+        the    -
+     people    -
+        who    -
+         do   (0
+         so   0)
+voluntarily    -
+        are    -
+      women    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P272_GDP
+    [CLS]    -
+     five    -
+    fresh    -
+    ##men    -
+ senators    -
+        ,    -
+     rich    -
+    ##ard    -
+        b    -
+     ##ur    -
+      ##r    -
+       of    -
+    north    -
+      car    -
+   ##olin    -
+      ##a    -
+        ,    -
+       to    -
+      ##m    -
+       co    -
+   ##burn    -
+       of    -
+       ok    -
+    ##lah    -
+    ##oma    -
+        ,    -
+       ji    -
+      ##m    -
+      dem    -
+    ##int    -
+       of    -
+    south    -
+      car    -
+   ##olin    -
+      ##a    -
+        ,    -
+        j    -
+     ##oh    -
+      ##n    -
+       th    -
+    ##une    -
+       of    -
+    south    -
+       da    -
+    ##kot    -
+      ##a    -
+      and    -
+       da    -
+    ##vid    -
+        v    -
+   ##itte    -
+      ##r    -
+       of    -
+       lo    -
+     ##ui    -
+   ##sian    -
+      ##a    -
+    voted   (0
+      for    -
+      the    -
+amendment    -
+       as    -
+    house    -
+  members   0)
+      and    -
+     plan    -
+       to    -
+       do   (0
+       so   0)
+    again    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P273_GDP
+      [CLS]     -
+      stock    (0
+     ##well    0)
+     wanted     -
+         to     -
+     appeal    (1
+    against     -
+        the     -
+      court     -
+      order    1)
+          .     -
+        she   (0)
+       said     -
+          ,     -
+        she   (0)
+       does     -
+        not     -
+       have     -
+        the     -
+  necessary     -
+information     -
+         to     -
+         do    (1
+         so    1)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P274_GDP
+    [CLS]    -
+       in    -
+   ##dian    -
+consumers    -
+      are    -
+  finding    -
+      new    -
+   avenue    -
+      ##s    -
+       to    -
+    relax   (0
+       by    -
+   window    -
+ shopping    -
+       or    -
+   actual    -
+ shopping   0)
+       at    -
+      the    -
+      new    -
+     mall    -
+      ##s    -
+      and    -
+ shopping    -
+    areas    -
+    which    -
+     have    -
+   sprung    -
+       up    -
+      and    -
+ continue    -
+       to    -
+       do   (0
+       so   0)
+       in    -
+       an    -
+  amazing    -
+    space    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P275_GDP
+     [CLS]     -
+  minister    (0
+        ya     -
+      ##da     -
+       ##v    0)
+unofficial     -
+      ##ly     -
+    kicked     -
+       off     -
+       the     -
+  campaign     -
+       for     -
+     state     -
+     polls     -
+  expected     -
+     later     -
+      this     -
+      year     -
+         .     -
+        he   (0)
+      said     -
+         ,     -
+         "     -
+         i   (0)
+      made    (1
+  mistakes    1)
+         (     -
+        in     -
+       the     -
+      past     -
+         )     -
+       but     -
+      will     -
+       not     -
+        do    (1
+        so    1)
+      this     -
+      time     -
+         .     -
+         "     -
+     [SEP]     -
+#end document
+
+#begin document P276_GDP
+       [CLS]     -
+        some     -
+  opposition    (0
+     parties    0)
+        have     -
+         not     -
+      posted    (1
+      agents     -
+          at     -
+registration     -
+     centres     -
+          in     -
+         the     -
+     ongoing     -
+       voter     -
+registration     -
+          in     -
+          da     -
+         ##r     -
+          es     -
+          sa     -
+        ##la     -
+        ##am    1)
+          as     -
+        they   (0)
+        have     -
+          no     -
+      reason     -
+          to     -
+          do    (1
+          so    1)
+     because     -
+        they   (0)
+         are     -
+        sure     -
+          no     -
+         one     -
+         can     -
+          ta     -
+      ##mper     -
+        with     -
+         the     -
+    exercise     -
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P277_GDP
+     [CLS]     -
+       you     -
+       can     -
+       get    (0
+       two     -
+ different     -
+         k    (1
+     ##hat     -
+      ##as    1)
+       for     -
+       the     -
+      plot    0)
+       and     -
+        if     -
+       the     -
+         b     -
+      ##da     -
+      does     -
+       not     -
+        do    (0
+        so    0)
+    before     -
+       the     -
+      sale     -
+         ,     -
+       you     -
+       can     -
+       get     -
+        it   (1)
+      done     -
+afterwards     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P278_GDP
+    [CLS]    -
+        i    -
+     have    -
+     been    -
+referring   (0
+     your    -
+    great    -
+  service    -
+       to    -
+      all    -
+       my    -
+  friends    -
+      and    -
+  clients   0)
+      and    -
+        i    -
+     plan    -
+       to    -
+ continue    -
+       to    -
+       do   (0
+       so   0)
+       as    -
+     long    -
+       as    -
+      you    -
+      are    -
+   around    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P279_GDP
+        [CLS]     -
+         each     -
+           of     -
+           us     -
+          who     -
+          has     -
+    emigrated   (0)
+            ,     -
+         must     -
+         have     -
+          had     -
+         some     -
+     personal     -
+      reasons     -
+           to     -
+           do    (0
+           so    0)
+            ,     -
+          but     -
+        there     -
+          may     -
+           be     -
+         many     -
+       common     -
+      reasons     -
+          too     -
+            ,     -
+         like     -
+          the     -
+            p     -
+         ##au     -
+       ##city     -
+           of     -
+        equal     -
+          and     -
+         fair     -
+opportunities     -
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P280_GDP
+    [CLS]     -
+    since     -
+        i   (0)
+     have     -
+      not     -
+     made    (1
+      any     -
+ decision     -
+regarding     -
+      the     -
+     sale     -
+       of     -
+      the     -
+       ed     -
+   center    1)
+      and     -
+     will     -
+      not     -
+       do    (1
+       so    1)
+    until     -
+        a     -
+   number     -
+       of     -
+questions     -
+      are     -
+ answered     -
+        ,     -
+        i   (0)
+    could     -
+      not     -
+    agree     -
+       to     -
+      the     -
+inclusion     -
+       of     -
+       my   (0)
+     name     -
+       in     -
+      the     -
+   letter     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P281_GDP
+    [CLS]     -
+   nearly     -
+    three     -
+        -     -
+ quarters     -
+        (     -
+       74     -
+  percent     -
+        )     -
+       of     -
+    chief    (0
+financial     -
+ officers    0)
+     said     -
+     they   (0)
+    check    (1
+       in     -
+     with     -
+      the     -
+   office    1)
+       at     -
+    least     -
+     once     -
+       or     -
+    twice     -
+        a     -
+     week     -
+   during     -
+    their   (0)
+ vacation     -
+      and     -
+       34     -
+  percent     -
+     said     -
+     they   (0)
+       do    (1
+       so    1)
+    daily     -
+        ,     -
+according     -
+       to     -
+        a     -
+   recent     -
+   survey     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P282_GDP
+      [CLS]     -
+         on     -
+        the     -
+ republican     -
+       side     -
+          ,     -
+          n     -
+      ##uss     -
+       ##le     -
+       will     -
+       face     -
+         si     -
+      ##oux     -
+       city     -
+businessman     -
+          b    (0
+       ##ob     -
+        van     -
+      ##der     -
+          p     -
+       ##la     -
+      ##ats    0)
+          ,     -
+        who     -
+     sought    (1
+        the     -
+         go     -
+        ##p     -
+ nomination     -
+         in     -
+        the     -
+       last     -
+   election    1)
+        and     -
+        has     -
+  announced     -
+        his   (0)
+  intention     -
+         to     -
+         do    (1
+         so    1)
+      again     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P283_GDP
+     [CLS]     -
+       the    (0
+         n     -
+      ##pp     -
+government    0)
+       was     -
+        to     -
+    access    (1
+      some     -
+  protocol     -
+facilities    1)
+      when     -
+        it   (0)
+   resumed     -
+     power     -
+        in     -
+      2000     -
+         ,     -
+       but     -
+        it   (0)
+       was     -
+    unable     -
+        to     -
+        do    (1
+        so    1)
+   because     -
+        of     -
+      some     -
+       few     -
+       hit     -
+    ##ches     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P284_GDP
+    [CLS]    -
+  connect    -
+     ##ic    -
+     ##ut    -
+yesterday    -
+   became    -
+      the    -
+   second    -
+    state    -
+       to    -
+recognize   (0
+     same    -
+        -    -
+      sex    -
+    civil    -
+   unions   0)
+        ,    -
+      and    -
+      the    -
+    first    -
+       to    -
+       do   (0
+       so   0)
+  without    -
+    court    -
+ pressure    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P285_GDP
+      [CLS]     -
+          "     -
+  everybody   (0)
+      wants     -
+         to     -
+         do    (1
+       well     -
+         in     -
+      front     -
+         of     -
+          a     -
+       home     -
+      crowd    1)
+          ,     -
+        but     -
+          ,     -
+    because     -
+       they   (0)
+       want     -
+         to     -
+         do    (1
+         so    1)
+          ,     -
+         it     -
+  sometimes     -
+       adds     -
+unnecessary     -
+  pressures     -
+          "     -
+          ,     -
+        she     -
+       said     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P286_GDP
+     [CLS]    -
+addressing   (0
+       the    -
+     issue   0)
+       isn    -
+         '    -
+         t    -
+    rocket    -
+   science    -
+         ,    -
+       and    -
+       the    -
+technology    -
+        to    -
+        do   (0
+        so   0)
+    exists    -
+     today    -
+         ,    -
+   experts    -
+       say    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P287_GDP
+         [CLS]     -
+            as     -
+      external    (0
+         firms    0)
+   demonstrate     -
+          that     -
+          they   (0)
+           can    (1
+       provide     -
+           the     -
+          sort     -
+            of     -
+       support     -
+      services     -
+      normally     -
+       offered     -
+            in     -
+             -     -
+         house    1)
+             ,     -
+           and     -
+            do    (1
+            so    1)
+professionally     -
+           and     -
+            at     -
+       reduced     -
+          cost     -
+             ,     -
+    businesses     -
+          will     -
+         start     -
+       turning     -
+          more     -
+            to     -
+          them   (0)
+             .     -
+         [SEP]     -
+#end document
+
+#begin document P288_GDP
+        [CLS]     -
+            k    (0
+        ##ean     -
+          ##e    0)
+     revealed     -
+           he   (0)
+        would     -
+       expect    (1
+          the     -
+         same     -
+           of     -
+          any     -
+           of     -
+          the     -
+        other     -
+      players    1)
+            .     -
+           he   (0)
+         felt     -
+           it     -
+          was     -
+    incumbent     -
+         upon     -
+          him   (0)
+           to     -
+           do    (1
+           so    1)
+           as     -
+          one     -
+           of     -
+          the     -
+         more     -
+       senior     -
+professionals     -
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P289_GDP
+     [CLS]    -
+  although    -
+   regular    -
+     banks    -
+      here    -
+       can    -
+   benefit    -
+      from    -
+        an    -
+  interest    -
+      rate    -
+       sub    -
+      ##si    -
+      ##dy    -
+         ,    -
+        in    -
+    effect    -
+         ,    -
+      when    -
+   lending   (0
+        to    -
+ hospitals   0)
+         ,    -
+         a    -
+       ##f    -
+       ##h    -
+        is    -
+       not    -
+ permitted    -
+        to    -
+        do   (0
+        so   0)
+     under    -
+       the    -
+   current    -
+       law    -
+   because    -
+      such    -
+     deals    -
+       are    -
+structured    -
+   without    -
+  interest    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P290_GDP
+        [CLS]    -
+          the    -
+            j    -
+        ##apa    -
+       ##nese    -
+    generator    -
+manufacturing    -
+      company    -
+          was    -
+   instructed    -
+           to    -
+     overhaul   (0
+         each    -
+    generator   0)
+        after    -
+           80    -
+            ,    -
+          000    -
+      working    -
+        hours    -
+            ,    -
+          but    -
+          the    -
+  authorities    -
+       failed    -
+           to    -
+           do   (0
+           so   0)
+         even    -
+        after    -
+          150    -
+            ,    -
+          000    -
+      working    -
+        hours    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P291_GDP
+      [CLS]     -
+          f    (0
+        ##p     -
+        ##l    0)
+       says     -
+         it   (0)
+      needs     -
+         to     -
+   maintain     -
+          a     -
+     robust     -
+  financial     -
+      state     -
+         so     -
+       that     -
+       when     -
+         it   (0)
+     borrow     -
+        ##s     -
+    billion     -
+        ##s     -
+         of     -
+    dollars     -
+         to     -
+        pay    (1
+        for     -
+        new     -
+      power     -
+     plants    1)
+        and     -
+      other     -
+investments     -
+          ,     -
+         it   (0)
+        can     -
+         do    (1
+         so    1)
+         at     -
+        the     -
+       best     -
+       rate     -
+   possible     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P292_GDP
+     [CLS]     -
+        sa    (0
+     ##udi     -
+         a     -
+     ##rab     -
+      ##ia    0)
+       has     -
+     never     -
+negotiated    (1
+        an     -
+ agreement    1)
+      that     -
+     would     -
+    define     -
+         i     -
+      ##ae     -
+       ##a     -
+  controls     -
+         ,     -
+      even     -
+    though     -
+        it   (0)
+        is     -
+         o     -
+       ##b     -
+    ##liga     -
+     ##ted     -
+        to     -
+        do    (1
+        so    1)
+        as     -
+         a     -
+      sign     -
+      ##er     -
+        of     -
+       the     -
+   nuclear     -
+       non     -
+       ##p     -
+     ##rol     -
+    ##ifer     -
+   ##ation     -
+    treaty     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P293_GDP
+      [CLS]     -
+         if     -
+       they   (0)
+   transmit    (1
+        any     -
+broadcaster     -
+          '     -
+          s     -
+     analog     -
+    channel    1)
+          ,     -
+       they   (0)
+       must     -
+         do    (1
+         so    1)
+        for     -
+        all     -
+      local     -
+   stations     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P294_GDP
+  [CLS]     -
+      b    (0
+ ##lake     -
+    car     -
+  ##ace     -
+  ##lla    0)
+   nail    (1
+   ##ed     -
+    one     -
+   from     -
+outside    1)
+     50     -
+    but     -
+ missed     -
+    the     -
+ chance     -
+     to     -
+     do    (1
+     so    1)
+  again     -
+seconds     -
+  later     -
+   when     -
+     he   (0)
+  spray     -
+   ##ed     -
+    his   (0)
+attempt     -
+   wide     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P295_GDP
+    [CLS]     -
+     more     -
+   ##over     -
+        ,     -
+    there     -
+       is     -
+        a     -
+   clause     -
+       in     -
+      the     -
+      new     -
+     bill     -
+     that     -
+   allows     -
+   people   (0)
+       to     -
+   donate    (1
+    their   (0)
+   organs    1)
+       to     -
+    their   (0)
+   family     -
+  members     -
+        ,     -
+       if     -
+     they   (0)
+   become     -
+    brain     -
+     dead     -
+       on     -
+condition     -
+     that     -
+     they   (0)
+  clearly     -
+  express     -
+    their   (0)
+     will     -
+       to     -
+       do    (1
+       so    1)
+       in     -
+  writing     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P296_GDP
+   [CLS]     -
+    with     -
+    only     -
+      is     -
+  ##tres     -
+       '     -
+    fate     -
+ already     -
+  sealed     -
+       ,     -
+  second    (0
+       -     -
+  bottom     -
+      na     -
+  ##ntes    0)
+   could     -
+   still     -
+    stay    (1
+      up    1)
+       ,     -
+     but     -
+      to     -
+      do    (1
+      so    1)
+    they   (0)
+    must     -
+     win     -
+      at     -
+    home     -
+      to     -
+  fellow     -
+struggle     -
+    ##rs     -
+     met     -
+     ##z     -
+     and     -
+    also     -
+    hope     -
+   other     -
+ results     -
+      go     -
+   their   (0)
+     way     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P297_GDP
+      [CLS]       -
+  proponent       -
+        ##s       -
+      refer       -
+         to       -
+        the       -
+    process       -
+         as       -
+         em      (0
+        ##b       -
+      ##ryo       -
+   adoption      0)
+          ,       -
+        and       -
+      while       -
+         no       -
+      state       -
+         or       -
+    federal       -
+        law       -
+  currently       -
+ recognizes      (1
+        the      (0
+       term   0)|1)
+        and       -
+        the       -
+      bills       -
+         to       -
+         do      (1
+         so      1)
+        are       -
+        now       -
+      being       -
+        put       -
+    forward       -
+         in       -
+    several       -
+      state       -
+legislature       -
+        ##s       -
+          ,       -
+  including       -
+         ca       -
+       ##li       -
+       ##fo       -
+       ##rn       -
+      ##ias       -
+          .       -
+      [SEP]       -
+#end document
+
+#begin document P298_GDP
+   [CLS]    -
+       s    -
+     ##t    -
+       .    -
+       p    -
+   ##aul    -
+       '    -
+       s    -
+utilizes   (0
+     car    -
+   ##ric    -
+     ##o    -
+       '    -
+       s    -
+ program   0)
+     and    -
+   three    -
+      of    -
+     the    -
+    four    -
+teachers    -
+ working    -
+    with    -
+       "    -
+    easy    -
+      es    -
+   ##pan    -
+    ##ol    -
+       "    -
+     are    -
+    able    -
+      to    -
+      do   (0
+      so   0)
+ despite    -
+  having    -
+      no    -
+  formal    -
+    span    -
+   ##ish    -
+training    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P299_GDP
+        [CLS]     -
+           he     -
+         said     -
+         that     -
+          the     -
+       number     -
+           of     -
+         sign     -
+       ##ator     -
+        ##ies     -
+           to     -
+          the     -
+   principles     -
+          had     -
+    increased     -
+         from     -
+           28     -
+           to     -
+          200     -
+            ,     -
+          and     -
+        urged     -
+        those     -
+organisations     -
+        which     -
+          had     -
+          not     -
+          yet     -
+       signed   (0)
+           on     -
+           to     -
+           do    (0
+           so    0)
+  immediately     -
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P300_GDP
+    [CLS]     -
+       he     -
+   agrees     -
+     that     -
+  vendors   (0)
+      are     -
+      not     -
+   making     -
+    their   (0)
+ products     -
+     more     -
+     open     -
+       to     -
+   please    (1
+       an     -
+ industry     -
+standards     -
+    group    1)
+      but     -
+     they   (0)
+      are     -
+    being     -
+   forced     -
+       to     -
+       do    (1
+       so    1)
+       by     -
+customers     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P301_GDP
+   [CLS]     -
+       c    (0
+   ##rai     -
+     ##g     -
+    bell     -
+    ##am     -
+     ##y    0)
+      on     -
+       f     -
+  ##rida     -
+     ##y     -
+insisted     -
+      he   (0)
+     has     -
+      no     -
+  desire     -
+      to     -
+   leave     -
+     new     -
+##castle     -
+       ,     -
+     vow     -
+   ##ing     -
+      to     -
+   train    (1
+    with     -
+     the     -
+    kids    1)
+      if     -
+  forced     -
+      to     -
+      do    (1
+      so    1)
+      by     -
+ manager     -
+       g     -
+   ##rae     -
+    ##me     -
+      so     -
+   ##une     -
+    ##ss     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P302_GDP
+        [CLS]    -
+     although    -
+      windows    -
+           is    -
+         used    -
+           on    -
+        about    -
+           90    -
+          per    -
+         cent    -
+           of    -
+          the    -
+        world    -
+            '    -
+            s    -
+     personal    -
+    computers    -
+            ,    -
+         some    -
+  governments    -
+          and    -
+        large    -
+organisations    -
+         have    -
+     switched   (0
+           to    -
+          the    -
+         free    -
+            l    -
+         ##in    -
+         ##ux    -
+       system   0)
+           or    -
+         have    -
+   threatened    -
+           to    -
+           do   (0
+           so   0)
+           to    -
+          get    -
+     discount    -
+          ##s    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P303_GDP
+      [CLS]     -
+        the    (0
+      three     -
+          -     -
+       year     -
+      lease    0)
+         is     -
+        for     -
+          $     -
+          2     -
+          ,     -
+        400     -
+        per     -
+       year     -
+          ,     -
+        and     -
+      while     -
+         it   (0)
+       does     -
+        not     -
+    require     -
+        the     -
+          r     -
+       ##ob     -
+     ##ison     -
+        ##s     -
+         to     -
+       make    (1
+        any     -
+   specific     -
+    repairs    1)
+          ,     -
+         it   (0)
+     allows     -
+        the     -
+       city     -
+         to     -
+         do    (1
+         so    1)
+         in     -
+          a     -
+cooperative     -
+     effort     -
+       with     -
+        the     -
+     owners     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P304_GDP
+    [CLS]    -
+     like    -
+      the    -
+      fed    -
+        ,    -
+       we    -
+      are    -
+expecting    -
+ interest    -
+    rates    -
+       to    -
+   return   (0
+       to    -
+     more    -
+  neutral    -
+   levels   0)
+        ,    -
+      and    -
+       to    -
+       do   (0
+       so   0)
+       in    -
+        a    -
+ measured    -
+      way    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P305_GDP
+   [CLS]     -
+      he   (0)
+ refused     -
+      to     -
+    make    (1
+     any     -
+ further     -
+ comment    1)
+      on     -
+     the     -
+decision     -
+      of     -
+     the     -
+ meeting     -
+     and     -
+    said     -
+    that     -
+      he   (0)
+   would     -
+      do    (1
+      so    1)
+   after     -
+ getting     -
+     any     -
+ written     -
+  notice     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P306_GDP
+     [CLS]        -
+    people      (0)
+    wanted        -
+        to        -
+    return       (3
+        to        -
+     their   (0)|(1
+     homes    1)|3)
+        by        -
+   getting        -
+        an       (2
+  official        -
+ clearance       2)
+      that        -
+       the       (1
+properties       1)
+       are        -
+      safe        -
+       and        -
+      they      (0)
+     could        -
+       not        -
+        do       (3
+        so       3)
+    before        -
+   getting        -
+        it      (2)
+         .        -
+     [SEP]        -
+#end document
+
+#begin document P307_GDP
+      [CLS]       -
+        ban       -
+       ##eg       -
+       ##as       -
+       said       -
+        the       -
+          p       -
+       ##om       -
+      squad       -
+         is       -
+     trying       -
+         to       -
+    inspire      (1
+        the      (0
+    younger       -
+      girls   0)|1)
+         to       -
+      start       -
+    dancing       -
+        for       -
+     health       -
+        and       -
+        fun       -
+        and       -
+         to       -
+   continue       -
+       when       -
+       they     (0)
+       have       -
+         an       -
+opportunity       -
+         to       -
+         do      (1
+         so      1)
+         in       -
+     school       -
+          .       -
+      [SEP]       -
+#end document
+
+#begin document P308_GDP
+   [CLS]     -
+       k    (0
+    ##oi     -
+    ##zu     -
+    ##mi    0)
+     has     -
+ visited    (1
+      to     -
+    ##ky     -
+     ##o    1)
+       '     -
+       s     -
+      ya     -
+    ##su     -
+    ##ku     -
+    ##ni     -
+  shrine     -
+    four     -
+   times     -
+   since     -
+  taking     -
+  office     -
+      in     -
+    2001     -
+       ,     -
+     and     -
+      is     -
+expected     -
+      to     -
+      do    (1
+      so    1)
+   again     -
+       ,     -
+although     -
+      he   (0)
+     has     -
+ avoided     -
+ specify     -
+   ##ing     -
+       a     -
+    date     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P309_GDP
+  [CLS]     -
+     he   (0)
+  could     -
+    not     -
+   wink   (1)
+      ,     -
+    but     -
+    his   (0)
+efforts     -
+     to     -
+     do    (1
+     so    1)
+yielded     -
+amazing     -
+    con     -
+  ##tor     -
+##tions     -
+     of     -
+  every     -
+  other     -
+   part     -
+     of     -
+    his   (0)
+   face     -
+      .     -
+  [SEP]     -
+#end document
+
+#begin document P310_GDP
+         [CLS]     -
+        bishop   (0)
+          said     -
+            he   (0)
+           was     -
+          only     -
+      bringing    (1
+           the     -
+       parking     -
+     situation     -
+            to     -
+           the     -
+       council     -
+             '     -
+             s     -
+     attention    1)
+       because     -
+            he   (0)
+           had     -
+          been     -
+         asked     -
+            to     -
+            do    (1
+            so    1)
+            by     -
+             a     -
+             m     -
+         ##oor     -
+           ##s     -
+       landing     -
+    management     -
+       company     -
+representative     -
+           and     -
+          also     -
+            as     -
+             a     -
+      response     -
+            to     -
+    complaints     -
+          from     -
+     residents     -
+             .     -
+         [SEP]     -
+#end document
+
+#begin document P311_GDP
+ [CLS]        -
+    if        -
+   you        -
+ haven        -
+     '        -
+     t        -
+  seen       (1
+    it   (0)|1)
+     ,        -
+     i        -
+  urge        -
+   you        -
+    to        -
+    do       (1
+    so       1)
+before        -
+    it      (0)
+ comes        -
+  down        -
+    on        -
+     a        -
+   ##p        -
+ ##ril        -
+    17        -
+     ,        -
+     a        -
+little        -
+  over        -
+     a        -
+  week        -
+  from        -
+   now        -
+     .        -
+ [SEP]        -
+#end document
+
+#begin document P312_GDP
+    [CLS]     -
+    about     -
+      the     -
+    scope     -
+       of     -
+       an     -
+anarchist     -
+  society     -
+        ,     -
+     some     -
+anarchist     -
+      ##s     -
+ advocate   (0)
+        a     -
+   global     -
+      one     -
+        ,     -
+    while     -
+   others     -
+       do    (0
+       so    0)
+     with     -
+    local     -
+     ones     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P313_GDP
+        [CLS]    -
+            a    -
+        ##bra    -
+         ##ms    -
+      offered    -
+           to    -
+    cooperate   (0
+         with    -
+          the    -
+investigators   0)
+            ,    -
+          but    -
+       always    -
+       failed    -
+           to    -
+           do   (0
+           so   0)
+           on    -
+      various    -
+          pre    -
+       ##text    -
+          ##s    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P314_GDP
+       [CLS]     -
+           a     -
+          di     -
+        ##st     -
+        ##ri     -
+       ##but     -
+       ##ive     -
+ negotiation     -
+       often     -
+    involves     -
+      people   (0)
+         who     -
+        have     -
+       never     -
+         had    (1
+           a     -
+    previous     -
+ interactive     -
+relationship    1)
+           ,     -
+         nor     -
+         are     -
+        they   (0)
+      likely     -
+          to     -
+          do    (1
+          so    1)
+       again     -
+          in     -
+         the     -
+        near     -
+      future     -
+           .     -
+       [SEP]     -
+#end document
+
+#begin document P315_GDP
+    [CLS]     -
+        a     -
+       do    (2
+  ##lphin    2)
+     that     -
+  watches     -
+        a     -
+    model     -
+    place     -
+        a    (0
+     ball    0)
+       in     -
+        a    (1
+   basket    1)
+    might     -
+    place     -
+      the    (0
+     ball    0)
+       in     -
+      the    (1
+   basket    1)
+     when     -
+    asked     -
+       to     -
+    mimic    (3
+      the     -
+ behavior    3)
+        ,     -
+      but     -
+       it   (2)
+      may     -
+       do    (3
+       so    3)
+       in     -
+        a     -
+different     -
+   manner     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P316_GDP
+   [CLS]    -
+       a    -
+    full    -
+ bladder    -
+     may    -
+    have    -
+       a    -
+   small    -
+  effect    -
+      on    -
+   blood    -
+pressure    -
+readings    -
+     and    -
+      if    -
+     the    -
+    urge    -
+      to    -
+       u   (0
+  ##rina    -
+    ##te   0)
+  arises    -
+       ,    -
+     one    -
+  should    -
+      do   (0
+      so   0)
+  before    -
+     the    -
+ reading    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P317_GDP
+        [CLS]     -
+          all    (0
+  individuals    0)
+          are     -
+     expected     -
+           to     -
+          pay    (2
+        taxes    2)
+           to     -
+        these    (1
+organizations    1)
+          and     -
+        their   (0)
+         will     -
+          has     -
+         been     -
+         over     -
+        ##rid     -
+        ##den     -
+           in     -
+       making     -
+         them   (0)
+           do    (2
+           so    2)
+        under     -
+          law     -
+            ,     -
+         thus     -
+         they   (1)
+          are     -
+      collect     -
+      ##ivist     -
+ institutions     -
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P318_GDP
+     [CLS]     -
+   derived     -
+      from     -
+        co     -
+      ##dd     -
+         '     -
+         s     -
+  theories     -
+         ,     -
+        el     -
+     ##lis     -
+      ##on     -
+    wanted     -
+        to     -
+      make    (1
+        or     -
+    ##acle     -
+         '     -
+         s     -
+   product     -
+compatible     -
+      with     -
+    system     -
+         r    1)
+         ,     -
+       but     -
+    failed     -
+        to     -
+        do    (1
+        so    1)
+        as     -
+         i    (0
+       ##b     -
+       ##m    0)
+      kept     -
+       the     -
+     error     -
+     codes     -
+       for     -
+     their   (0)
+         d     -
+       ##b     -
+      ##ms     -
+         a     -
+    secret     -
+         .     -
+     [SEP]     -
+#end document
+
+#begin document P319_GDP
+      [CLS]     -
+   although     -
+continental     -
+     powers     -
+       were     -
+         un     -
+        ##p     -
+       ##re     -
+      ##par     -
+       ##ed     -
+         to     -
+        act     -
+          ,     -
+        the    (0
+         br     -
+     ##itis     -
+        ##h    0)
+    decided     -
+         to     -
+       send     -
+         an     -
+      agent     -
+         to     -
+       help     -
+        the     -
+          s     -
+       ##wi     -
+       ##ss     -
+     obtain     -
+   supplies     -
+          ,     -
+        and     -
+       also     -
+    ordered     -
+      their   (0)
+   military     -
+        not    (1
+         to     -
+     return     -
+        the     -
+       cape     -
+     colony     -
+         to     -
+         ho     -
+    ##lland    1)
+         as     -
+       they   (0)
+        had     -
+  committed     -
+         to     -
+         do    (1
+         so    1)
+         in     -
+        the     -
+     treaty     -
+         of     -
+         am     -
+     ##iens     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P320_GDP
+      [CLS]     -
+   although     -
+      there     -
+        was     -
+      press     -
+speculation     -
+         at     -
+        the     -
+       time     -
+       that     -
+         ll    (0
+       ##oy     -
+        ##d     -
+          g     -
+      ##eor     -
+       ##ge    0)
+      would     -
+      adopt     -
+         us     -
+          -     -
+      style     -
+prohibition     -
+         to     -
+     appeal    (1
+         to     -
+      newly     -
+         en     -
+      ##fra     -
+      ##nch     -
+     ##ised     -
+      women     -
+     voters    1)
+          ,     -
+      there     -
+         is     -
+         no     -
+   evidence     -
+       that     -
+         he   (0)
+   intended     -
+         to     -
+         do    (1
+         so    1)
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P321_GDP
+        [CLS]     -
+            a    (0
+          man    0)
+          who     -
+        kills    (1
+      another     -
+           in     -
+            a     -
+            q     -
+         ##ua     -
+       ##rrel    1)
+         must     -
+        swear     -
+         that     -
+           he   (0)
+          did     -
+          not     -
+           do    (1
+           so    1)
+intentionally     -
+          and     -
+          was     -
+         then     -
+         only     -
+        fined     -
+    according     -
+           to     -
+          the     -
+         rank     -
+           of     -
+          the     -
+     deceased     -
+            .     -
+        [SEP]     -
+#end document
+
+#begin document P322_GDP
+    [CLS]     -
+      and     -
+       it     -
+        '     -
+        s     -
+confusing     -
+      for     -
+        a     -
+    fluid     -
+  because     -
+      the    (0
+     mass    0)
+      can     -
+     move    (1
+      and     -
+      red     -
+    ##ist     -
+     ##ri     -
+    ##but     -
+      ##e    1)
+   itself   (0)
+        ,     -
+      but     -
+      can     -
+     only     -
+       do    (1
+       so    1)
+       in     -
+     ways     -
+     that     -
+      con     -
+  ##serve     -
+ momentum     -
+      and     -
+   energy     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P323_GDP
+    [CLS]     -
+  angered     -
+       by     -
+      the     -
+  failure     -
+       of     -
+      the     -
+     boys     -
+       to     -
+  attract     -
+potential     -
+   rescue     -
+     ##rs     -
+        ,     -
+        r    (0
+     ##al     -
+     ##ph    0)
+considers     -
+       re    (1
+    ##lin     -
+   ##quis     -
+   ##hing     -
+      his   (0)
+ position    1)
+        ,     -
+      but     -
+       is     -
+convinced     -
+      not     -
+       to     -
+       do    (1
+       so    1)
+       by     -
+      pig     -
+     ##gy     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P324_GDP
+       [CLS]    -
+        keep   (0
+          fl    -
+        ##am    -
+     ##mable    -
+   materials    -
+         and    -
+       vapor    -
+         ##s    -
+           ,    -
+        such    -
+          as    -
+    gasoline    -
+           ,    -
+        away    -
+        from    -
+         the    -
+refrigerator   0)
+           .    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+         can    -
+      result    -
+          in    -
+        fire    -
+           ,    -
+   explosion    -
+           ,    -
+          or    -
+       death    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P325_GDP
+      [CLS]    -
+         do    -
+        not    -
+      touch   (0
+     frozen    -
+       food    -
+         or    -
+        the    -
+      metal    -
+      parts    -
+         in    -
+        the    -
+     freeze    -
+        ##r    -
+compartment    -
+       with    -
+        wet    -
+         or    -
+       damp    -
+      hands   0)
+          .    -
+      doing   (0
+         so   0)
+        may    -
+      cause    -
+      frost    -
+      ##bit    -
+        ##e    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P326_GDP
+     [CLS]    -
+        do    -
+       not    -
+        re   (0
+    ##free    -
+      ##ze    -
+    frozen    -
+      food    -
+      that    -
+       has    -
+        th    -
+    ##awed    -
+completely   0)
+         .    -
+     doing   (0
+        so   0)
+       may    -
+    result    -
+        in    -
+         a    -
+   serious    -
+    health    -
+    hazard    -
+         .    -
+     [SEP]    -
+#end document
+
+#begin document P327_GDP
+       [CLS]    -
+          do    -
+         not    -
+         put   (0
+       hands    -
+           ,    -
+        feet    -
+          or    -
+       other    -
+     objects    -
+        into    -
+         the    -
+         air    -
+        vent    -
+         ##s    -
+          or    -
+      bottom    -
+          of    -
+         the    -
+refrigerator   0)
+           .    -
+       doing   (0
+          so   0)
+       could    -
+      result    -
+          in    -
+    personal    -
+      injury    -
+          or    -
+    electric    -
+       shock    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P328_GDP
+   [CLS]    -
+      do    -
+     not    -
+   allow   (0
+   water    -
+       ,    -
+       b    -
+   ##lea    -
+    ##ch    -
+       ,    -
+      or    -
+   other    -
+  liquid    -
+     ##s    -
+      to    -
+     sit    -
+      in    -
+     the   (1
+    drum   1)
+     for    -
+extended    -
+ periods   0)
+       .    -
+   doing   (0
+      so   0)
+     can    -
+      co    -
+   ##rro    -
+    ##de    -
+     the   (1
+    drum   1)
+      or    -
+   cause    -
+    mild    -
+    ##ew    -
+      or    -
+    odor    -
+     ##s    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P329_GDP
+   [CLS]    -
+      do    -
+     not    -
+   spray   (0
+   water    -
+  inside    -
+     the    -
+ cabinet   0)
+       .    -
+   doing   (0
+      so   0)
+     may    -
+   cause    -
+    fire    -
+      or    -
+electric    -
+   shock    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P330_GDP
+   [CLS]    -
+      do    -
+     not    -
+  insert   (0
+     the    -
+     end    -
+      of    -
+     the    -
+   drain    -
+    hose    -
+    into    -
+     the    -
+   stand    -
+  ##pipe    -
+    more    -
+    than    -
+       8    -
+  inches   0)
+       .    -
+   doing   (0
+      so   0)
+     can    -
+   cause    -
+     sip    -
+   ##hon    -
+   ##ing    -
+       ,    -
+    odor    -
+     ##s    -
+       ,    -
+      or    -
+     imp    -
+ ##roper    -
+draining    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P331_GDP
+   [CLS]     -
+     the     -
+   drain     -
+    hose     -
+  should     -
+  always     -
+      be     -
+properly     -
+ secured   (0)
+       .     -
+ failure     -
+      to     -
+      do    (0
+      so    0)
+     can     -
+  result     -
+      in     -
+flooding     -
+     and     -
+property     -
+  damage     -
+       .     -
+   [SEP]     -
+#end document
+
+#begin document P332_GDP
+  [CLS]    -
+    use   (0
+    the    -
+    bed    -
+ ##ding    -
+  cycle    -
+    for    -
+      b    -
+   ##uo    -
+  ##yan    -
+    ##t    -
+     or    -
+    non    -
+   ##ab    -
+  ##sor    -
+ ##bent    -
+  items    -
+   such    -
+     as    -
+pillows    -
+     or    -
+comfort    -
+  ##ers   0)
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+    can    -
+ result    -
+     in    -
+   leak    -
+  ##age    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P333_GDP
+   [CLS]    -
+     the    -
+   drain    -
+    hose    -
+  should    -
+      be    -
+properly   (0
+   fixed    -
+      to    -
+     the    -
+  outlet   0)
+       .    -
+ failure    -
+      to    -
+      do   (0
+      so   0)
+     can    -
+  result    -
+      in    -
+flooding    -
+     and    -
+property    -
+  damage    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P334_GDP
+      [CLS]    -
+       keep   (0
+      hands    -
+        and    -
+      tools    -
+        out    -
+         of    -
+        the    -
+        ice    -
+compartment    -
+       door    -
+        and    -
+         di    -
+   ##spense    -
+        ##r    -
+         ch    -
+      ##ute   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+        may    -
+     result    -
+         in    -
+     damage    -
+         or    -
+   personal    -
+     injury    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P335_GDP
+    [CLS]    -
+      use   (0
+      non    -
+        -    -
+       fl    -
+     ##am    -
+  ##mable    -
+  cleaner   0)
+        .    -
+  failure    -
+       to    -
+       do   (0
+       so   0)
+      can    -
+   result    -
+       in    -
+     fire    -
+        ,    -
+explosion    -
+        ,    -
+       or    -
+    death    -
+        .    -
+    [SEP]    -
+#end document
+
+#begin document P336_GDP
+      [CLS]    -
+         do    -
+        not    -
+        use    -
+          a    -
+       worn    -
+         or    -
+    damaged    -
+      power    -
+       cord    -
+         or    -
+      power    -
+       plug    -
+          .    -
+    replace   (0
+         or    -
+     repair    -
+          a    -
+       worn    -
+         or    -
+    damaged    -
+      power    -
+       cord    -
+         or    -
+      power    -
+       plug    -
+immediately   0)
+          .    -
+    failure    -
+         to    -
+         do   (0
+         so   0)
+        may    -
+     result    -
+         in    -
+      death    -
+          ,    -
+       fire    -
+          ,    -
+   electric    -
+      shock    -
+          ,    -
+         or    -
+         ma    -
+       ##lf    -
+       ##un    -
+    ##ction    -
+          .    -
+      [SEP]    -
+#end document
+
+#begin document P337_GDP
+     [CLS]       -
+        do       -
+       not       -
+    modify       -
+       the       -
+     power       -
+      cord       -
+       and       -
+      plug       -
+  provided       -
+      with       -
+       the      (0
+    fridge      0)
+         .       -
+      take       -
+      care       -
+       not      (1
+        to       -
+    damage       -
+       the      (0
+    fridge      0)
+      when       -
+installing       -
+        or       -
+    moving       -
+       the      (0
+    fridge   0)|1)
+         .       -
+   failure       -
+        to       -
+        do      (1
+        so      1)
+       may       -
+    result       -
+        in       -
+     death       -
+         ,       -
+      fire       -
+         ,       -
+  electric       -
+     shock       -
+         ,       -
+        or       -
+        ma       -
+      ##lf       -
+      ##un       -
+   ##ction       -
+         .       -
+     [SEP]       -
+#end document
+
+#begin document P338_GDP
+   [CLS]    -
+ connect   (0
+     the    -
+    wash    -
+    ##er    -
+      to    -
+       a    -
+grounded    -
+  outlet    -
+ conform    -
+   ##ing    -
+      to    -
+     the    -
+  rating    -
+   prior    -
+      to    -
+     use   0)
+       .    -
+ failure    -
+      to    -
+      do   (0
+      so   0)
+     may    -
+  result    -
+      in    -
+    fire    -
+       ,    -
+electric    -
+   shock    -
+       ,    -
+      or    -
+      ma    -
+    ##lf    -
+    ##un    -
+ ##ction    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P339_GDP
+    [CLS]     -
+    never     -
+       un     -
+      ##p     -
+    ##lug     -
+      the     -
+      app     -
+ ##liance     -
+       by     -
+  pulling     -
+       on     -
+      the    (1
+    power     -
+     cord    1)
+        .     -
+   always     -
+     grip    (2
+      the    (0
+     plug    0)
+   firmly     -
+      and     -
+     pull     -
+       it   (0)
+ straight     -
+      out     -
+     from     -
+      the     -
+   outlet    2)
+        .     -
+  failure     -
+       to     -
+       do    (2
+       so    2)
+      may     -
+   damage     -
+      the    (1
+    power     -
+     cord    1)
+        ,     -
+resulting     -
+       in     -
+        a     -
+     risk     -
+       of     -
+     fire     -
+      and     -
+ electric     -
+    shock     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P340_GDP
+    [CLS]     -
+     keep    (1
+      the    (0
+  product    0)
+     away     -
+     from     -
+   direct     -
+ sunlight    1)
+        .     -
+       it   (1)
+       is     -
+essential     -
+      for     -
+      its   (0)
+   health     -
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P341_GDP
+  [CLS]    -
+    run   (0
+    the    -
+      p    -
+ ##ixel    -
+  refer    -
+  ##esh    -
+   ##er    -
+ weekly   0)
+      .    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+  could    -
+ damage    -
+    the    -
+display    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P342_GDP
+      [CLS]     -
+        the    (0
+   computer    0)
+      could     -
+       pass    (1
+      along     -
+        the     -
+information     -
+         it   (0)
+   received    1)
+          ,     -
+        but     -
+      doing    (1
+         so    1)
+      could     -
+        not     -
+         be     -
+   credited     -
+       with     -
+recognizing     -
+   anything     -
+         at     -
+        all     -
+          .     -
+      [SEP]     -
+#end document
+
+#begin document P343_GDP
+    [CLS]     -
+        f    (0
+     ##aw     -
+    ##kes    0)
+ admitted     -
+     that     -
+       he   (0)
+   wanted     -
+       to     -
+     blow    (1
+       up     -
+      the     -
+    house     -
+       of     -
+    lords    1)
+        ,     -
+      and     -
+expressed     -
+   regret     -
+       at     -
+      his   (0)
+  failure     -
+       to     -
+       do    (1
+       so    1)
+        .     -
+    [SEP]     -
+#end document
+
+#begin document P344_GDP
+  [CLS]    -
+     it    -
+     is    -
+unclear    -
+exactly    -
+    how    -
+     to    -
+impress   (0
+    the    -
+  media   0)
+      ,    -
+    but    -
+      a    -
+failure    -
+     to    -
+     do   (0
+     so   0)
+    may    -
+   lead    -
+     to    -
+      a    -
+ ruined    -
+  image    -
+      .    -
+  [SEP]    -
+#end document
+
+#begin document P345_GDP
+       [CLS]    -
+           k    -
+      ##rist    -
+       ##ina    -
+         was    -
+       asked    -
+          to    -
+        turn   (0
+         off    -
+         the    -
+       stove    -
+       after    -
+           5    -
+     minutes   0)
+           .    -
+     failure    -
+          to    -
+          do   (0
+          so   0)
+         may    -
+        have    -
+         led    -
+          to    -
+catastrophic    -
+      damage    -
+           .    -
+       [SEP]    -
+#end document
+
+#begin document P346_GDP
+   [CLS]    -
+     the    -
+    army    -
+     was    -
+supposed    -
+      to    -
+ destroy   (0
+     all    -
+     the    -
+ bridges   0)
+       .    -
+ failure    -
+      to    -
+      do   (0
+      so   0)
+     may    -
+    lead    -
+      to    -
+  defeat    -
+       .    -
+   [SEP]    -
+#end document
+
+#begin document P347_GDP
+        [CLS]    -
+           it    -
+           is    -
+    important    -
+           to    -
+        treat   (0
+          the    -
+      patient    -
+           on    -
+         time   0)
+            .    -
+      failure    -
+           to    -
+           do   (0
+           so   0)
+        would    -
+         lead    -
+           to    -
+complications    -
+            .    -
+        [SEP]    -
+#end document
+
+#begin document P348_GDP
+ [CLS]    -
+ never    -
+   put   (0
+  your    -
+ hands    -
+inside    -
+   the    -
+  wash    -
+ trunk   0)
+     .    -
+ doing   (0
+    so   0)
+   may    -
+ cause    -
+injury    -
+    to    -
+   the    -
+person    -
+     .    -
+ [SEP]    -
+#end document
+
+#begin document P349_GDP
+       [CLS]     -
+         jam    (0
+        ##es    0)
+   dedicated    (1
+         his   (0)
+      wealth     -
+          to     -
+         the     -
+        poor    1)
+           .     -
+          in     -
+       doing    (1
+          so    1)
+           ,     -
+          he   (0)
+demonstrated     -
+        care     -
+           ,     -
+         hum     -
+     ##ility     -
+         and     -
+     passion     -
+           .     -
+       [SEP]     -
+#end document
+
